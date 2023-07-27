@@ -1045,6 +1045,10 @@ section {
   margin-left: 50px; /* Adjust this value as needed to move the image to the right */
 }
 
+.content p {
+  font-size: 18px; /* Adjust the font size as needed */
+}
+
 
 @keyframes animate-loading {
   0% {
