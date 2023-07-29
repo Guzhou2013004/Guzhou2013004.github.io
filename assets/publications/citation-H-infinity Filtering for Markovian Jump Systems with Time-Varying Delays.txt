@@ -1,0 +1,11 @@
+@article{liuh1,
+  author={Liu, Jinliang and Gu, Zhou and Hu, Songlin},
+  journal={International Journal Of Innovative Computing Information And Control}, 
+  title={H-Infinity Filtering For Markovian Jump Systems With Time-Varying Delays},
+  year={2011},
+  volume={7},
+  number={3},
+  pages={1299-1310}
+}
+
+Liu, Jinliang; Gu Zhou; Hu, Songlin. H-Infinity Filtering For Markovian Jump Systems With Time-Varying Delays. International Journal Of Innovative Computing Information And Control. 2011,7(3): 1299-1310. （SCI）

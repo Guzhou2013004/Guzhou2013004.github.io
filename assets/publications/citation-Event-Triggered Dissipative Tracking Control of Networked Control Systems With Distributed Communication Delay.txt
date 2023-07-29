@@ -1,0 +1,13 @@
+@ARTICLE{9444909,
+  author={Gu, Zhou and Yan, Shen and Ahn, Choon Ki and Yue, Dong and Xie, Xiangpeng},
+  journal={IEEE Systems Journal}, 
+  title={Event-Triggered Dissipative Tracking Control of Networked Control Systems With Distributed Communication Delay}, 
+  year={2022},
+  volume={16},
+  number={2},
+  pages={3320-3330},
+  doi={10.1109/JSYST.2021.3079460}}
+
+
+
+Zhou Gu, Shen Yan, C. K. Ahn, Dong Yue, Xiangpeng Xie, Event-triggered dissipative tracking control of networked control systems with distributed communication delay, IEEE Systems Journal, vol. 16, no. 2, pp. 3320-3330, June 2022. （二区）

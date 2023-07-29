@@ -1,0 +1,11 @@
+@article{xiong2021observer,
+  title={Observer-based adaptive fixed-time formation control for multi-agent systems with unknown uncertainties},
+  author={Xiong, Tianyi and Gu, Zhou},
+  journal={Neurocomputing},
+  volume={423},
+  pages={506--517},
+  year={2021},
+  publisher={Elsevier}
+}
+
+Tianyi Xiong, Zhou Gu*. Observer-based adaptive fixed-time formation control for multi-agent systems with unknown uncertainties. Neurocomputing, Jan. 2021, 423: 506-517.（二区）

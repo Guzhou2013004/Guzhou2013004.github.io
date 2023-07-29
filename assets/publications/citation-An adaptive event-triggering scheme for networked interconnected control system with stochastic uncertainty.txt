@@ -1,0 +1,12 @@
+@article{gu2017adaptive,
+  title={An adaptive event-triggering scheme for networked interconnected control system with stochastic uncertainty},
+  author={Gu, Zhou and Shi, Peng and Yue, Dong},
+  journal={International Journal of Robust and Nonlinear Control},
+  volume={27},
+  number={2},
+  pages={236--251},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+Zhou Gu, Shi P, Yue D. An adaptive event‐triggering scheme for networked interconnected control system with stochastic uncertainty[J]. International Journal of Robust and Nonlinear Control, 2017, 27( 2): 236–251.（二区）

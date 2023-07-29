@@ -1,0 +1,11 @@
+@ARTICLE{9404851,
+  author={Gu, Zhou and Sun, Xiang and Lam, Hak-Keung and Yue, Dong and Xie, Xiangpeng},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Event-Based Secure Control of T–S Fuzzy-Based 5-DOF Active Semivehicle Suspension Systems Subject to DoS Attacks}, 
+  year={2022},
+  volume={30},
+  number={6},
+  pages={2032-2043},
+  doi={10.1109/TFUZZ.2021.3073264}}
+
+Zhou Gu; Xiang Sun; Hak-Keung Lam; Dong Yue; Xiangpeng Xie. Event-based secure control of T-S fuzzy-based 5-DoF active semivehicle suspension systems subject to dos attacks, IEEE Transactions on Fuzzy Systems, vol. 30, no. 6, pp. 2032-2043, June 2022.

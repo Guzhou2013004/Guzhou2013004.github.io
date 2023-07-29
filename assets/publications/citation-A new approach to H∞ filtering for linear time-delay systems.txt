@@ -1,0 +1,12 @@
+@article{liu2012new,
+  title={A new approach to H∞ filtering for linear time-delay systems},
+  author={Liu, Jinliang and Gu, Zhou and Tian, Engang},
+  journal={Journal of the Franklin Institute},
+  volume={349},
+  number={1},
+  pages={184--200},
+  year={2012},
+  publisher={Elsevier}
+}
+
+Jingliang Liu, Zhou Gu , Engang Tian. A new approach to H∞ filtering for linear time-delay systems. Journal of the Franklin Institute, 2011,349(1), 184-200. 

@@ -1,0 +1,11 @@
+@ARTICLE{9447170,
+  author={Yan, Shen and Gu, Zhou and Nguang, Sing Kiong},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Memory-Event-Triggered Output Control of Neural Networks With Mixed Delays}, 
+  year={2022},
+  volume={33},
+  number={11},
+  pages={6905-6915},
+  doi={10.1109/TNNLS.2021.3083898}}
+
+Shen Yan, Zhou Gu*, Sing Kiong Nguang, Memory-event-triggered output control of neural networks with mixed delays, IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 11, pp. 6905-6915, Nov. 2022. （一区）

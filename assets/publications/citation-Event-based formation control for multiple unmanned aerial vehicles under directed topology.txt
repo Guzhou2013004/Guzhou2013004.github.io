@@ -1,0 +1,12 @@
+@article{yan2023delay,
+  title={A delay-kernel-dependent approach to saturated control of linear systems with mixed delays},
+  author={Yan, Shen and Gu, Zhou and Park, Ju H and Xie, Xiangpeng},
+  journal={Automatica},
+  volume={152},
+  pages={110984},
+  year={2023},
+  publisher={Elsevier}
+}
+
+Tingting Yin, Zhou Gu*, Shen Yan, Event-based formation control for multiple unmanned aerial vehicles under directed topology,
+ ISA Transactions, 2023, DOI: 10.1016/j.isatra.2023.01.018.

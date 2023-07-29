@@ -1,0 +1,12 @@
+@article{gu2011stochastic,
+  title={Stochastic faulty actuator-based reliable control for a class of interval time-varying delay systems with Markovian jumping parameters},
+  author={Gu, Zhou and Yue, Dong and Wang, Daobo and Liu, Jingliang},
+  journal={Optimal Control Applications and Methods},
+  volume={32},
+  number={3},
+  pages={313--327},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+Zhou GU,Dong Yue,Daobo Wang,Jinlang Liu. Stochastic faulty actuator-based reliable. control for a class of interval time-varying delay systems with Markovian jumping parameters. Optimal Control Applications $\&$ Methods, 2011,32(3) :313-327. （SCI）

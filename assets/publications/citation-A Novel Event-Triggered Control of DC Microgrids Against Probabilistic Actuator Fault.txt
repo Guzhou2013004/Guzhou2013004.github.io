@@ -1,0 +1,12 @@
+@ARTICLE{9815235,
+  author={Ji, Bowei and Gu, Zhou and Mu, Xiufeng},
+  journal={IEEE Access}, 
+  title={A Novel Event-Triggered Control of DC Microgrids Against Probabilistic Actuator Fault}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={71186-71193},
+  doi={10.1109/ACCESS.2022.3188719}}
+
+
+Bowei Ji, Zhou Gu and Xiufeng Mu, A novel event-triggered control of dc microgrids against probabilistic actuator fault, IEEE Access, vol. 10, pp. 71186-71193, 2022.

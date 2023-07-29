@@ -1,0 +1,11 @@
+@ARTICLE{9645358,
+  author={Yan, Shen and Gu, Zhou and Park, Ju H. and Xie, Xiangpeng},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Adaptive Memory-Event-Triggered Static Output Control of T–S Fuzzy Wind Turbine Systems}, 
+  year={2022},
+  volume={30},
+  number={9},
+  pages={3894-3904},
+  doi={10.1109/TFUZZ.2021.3133892}}
+
+Shen Yan, Zhou Gu*, Ju H. Park and Xiangpeng Xie, Adaptive memory-event-triggered static output control of T-S fuzzy wind turbine systems, in IEEE Transactions on Fuzzy Systems, vol. 30, no. 9, pp. 3894-3904, Sept. 2022.

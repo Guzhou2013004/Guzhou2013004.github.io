@@ -1,0 +1,11 @@
+@article{liu2012new,
+  title={New results on H∞ filter design for nonlinear systems with time-delay through a TS fuzzy model approach},
+  author={Liu, Jinliang and Gu, Zhou and Tian, Engang and Yan, Ruixia},
+  journal={International Journal of Systems Science},
+  volume={43},
+  number={3},
+  pages={426--442},
+  year={2012},
+  publisher={Taylor \& Francis}}
+
+Liu, Jinliang; Gu Zhou; Tian, Engang. New results on H-infinity filter design for nonlinear systems with time-delay through a T-S fuzzy model approach, International Journal of Systems Science. 2012, 43(3): 426-442. （SCI）

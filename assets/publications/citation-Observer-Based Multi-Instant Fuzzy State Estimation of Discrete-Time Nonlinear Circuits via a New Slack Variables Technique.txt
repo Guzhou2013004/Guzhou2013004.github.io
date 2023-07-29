@@ -1,0 +1,11 @@
+@ARTICLE{9622753,
+  author={Xie, Xiangpeng and Qiu, Xuan and Gu, Zhou},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+  title={Observer-Based Multi-Instant Fuzzy State Estimation of Discrete-Time Nonlinear Circuits via a New Slack Variables Technique}, 
+  year={2022},
+  volume={69},
+  number={4},
+  pages={2191-2195},
+  doi={10.1109/TCSII.2021.3129463}}
+
+Xiangpeng Xie; Xuan Qiu; Zhou Gu, Observer-based multi-instant fuzzy state estimation of discrete-time nonlinear circuits via a new slack variables technique, in IEEE Transactions On Circuits and Systems II: Express Briefs, vol. 69, no. 4, pp. 2191-2195, April 2022.

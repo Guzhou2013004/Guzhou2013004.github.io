@@ -1,0 +1,11 @@
+@article{gu2018designing,
+  title={On designing of an adaptive event-triggered communication scheme for nonlinear networked interconnected control systems},
+  author={Gu, Zhou and Yue, Dong and Tian, Engang},
+  journal={Information Sciences},
+  volume={422},
+  pages={257--270},
+  year={2018},
+  publisher={Elsevier}
+}
+
+Zhou Gu, Dong Yue, Engang Tian. On designing of an adaptive event-triggered communication scheme for nonlinear networked interconnected control systems[J]. Information Sciences, 2018, 422：257-270. （一区）

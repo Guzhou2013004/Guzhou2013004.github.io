@@ -1,0 +1,12 @@
+@article{gu2017h,
+  title={H∞ tracking control of nonlinear networked systems with a novel adaptive event-triggered communication scheme},
+  author={Gu, Zhou and Yue, Dong and Liu, Jinliang and Ding, Zhentao},
+  journal={Journal of the Franklin Institute},
+  volume={354},
+  number={8},
+  pages={3540--3553},
+  year={2017},
+  publisher={Elsevier}
+}
+
+Zhou Gu, Dong Yue, Jingliang Liu. $H_\infty$ tracking control of nonlinear networked systems with a novel adaptive event-triggered communication scheme[J]. Journal of the Franklin Institute, 2017, 354:3540–3553.（二区）

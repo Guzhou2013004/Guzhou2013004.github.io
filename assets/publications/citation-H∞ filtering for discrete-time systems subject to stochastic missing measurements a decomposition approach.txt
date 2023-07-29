@@ -1,0 +1,12 @@
+@article{gu2014h,
+  title={H∞ filtering for discrete-time systems subject to stochastic missing measurements: a decomposition approach},
+  author={Gu, Zhou and Fei, Shumin and Yue, Dong and Tian, Engang},
+  journal={International Journal of Systems Science},
+  volume={45},
+  number={7},
+  pages={1356--1363},
+  year={2014},
+  publisher={Taylor \& Francis}
+}
+
+Zhou Gu, Shumin Fei∗, Dong Yue,Engang Tian. H∞ filtering for discrete-time systems subject to stochastic missing measurements: a decomposition approach. International Journal of Systems Science. 45(7), pp 1356-1363, 2014.

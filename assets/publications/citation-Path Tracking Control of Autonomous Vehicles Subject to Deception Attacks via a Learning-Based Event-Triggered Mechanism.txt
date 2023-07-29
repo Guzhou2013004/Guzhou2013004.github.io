@@ -1,0 +1,11 @@
+@ARTICLE{9354512,
+  author={Gu, Zhou and Yin, Tingting and Ding, Zhengtao},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Path Tracking Control of Autonomous Vehicles Subject to Deception Attacks via a Learning-Based Event-Triggered Mechanism}, 
+  year={2021},
+  volume={32},
+  number={12},
+  pages={5644-5653},
+  doi={10.1109/TNNLS.2021.3056764}}
+
+Zhou Gu, Tingting Yin, Zhentao Ding, Path tracking control of autonomous vehicles subject to deception attacks via a learning-based event-triggered mechanism, IEEE Transactions on Neural Networks and Learning Systems, 2021, 32(12): 5644 - 5653. (一区)

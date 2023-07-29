@@ -1,0 +1,11 @@
+@ARTICLE{9740229,
+  author={Xie, Xiangpeng and Xu, Chang and Gu, Zhou},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+  title={Further Studies on State Estimation of Discrete-Time Nonlinear Circuits Based on a Switching-Type Multi-Instant Fuzzy Observer}, 
+  year={2022},
+  volume={69},
+  number={8},
+  pages={3505-3509},
+  doi={10.1109/TCSII.2022.3161686}}
+
+Xiangpeng Xie, Chang Xu and Zhou Gu, Further Studies on State Estimation of Discrete-Time Nonlinear Circuits Based on a Switching-Type Multi-Instant Fuzzy Observer, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 8, pp. 3505-3509, Aug. 2022.

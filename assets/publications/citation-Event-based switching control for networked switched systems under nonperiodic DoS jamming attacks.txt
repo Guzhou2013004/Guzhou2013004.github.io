@@ -1,0 +1,12 @@
+@article{yang2020event,
+  title={Event-based switching control for networked switched systems under nonperiodic DoS jamming attacks},
+  author={Yang, Fan and Gu, Zhou and Tian, Engang and Yan, Shen},
+  journal={IET Control Theory \& Applications},
+  volume={14},
+  number={19},
+  pages={3097--3106},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+
+Fan Yang, Zhou Gu*, Engang Tian, Shen Yan. Event-based switching control for networked switched systems under nonperiodic DoS jamming attacks[J]. IET Control Theory & Applications, Dec. 2020, 14(19), 3097 – 3106. （二区）

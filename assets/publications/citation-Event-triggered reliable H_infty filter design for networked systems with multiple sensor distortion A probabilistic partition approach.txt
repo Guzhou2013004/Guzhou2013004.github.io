@@ -1,0 +1,11 @@
+@article{gu2017event,
+  title={Event-triggered reliable H∞ filter design for networked systems with multiple sensor distortions: a probabilistic partition approach},
+  author={Gu, Zhou and Yang, Linghui and Tian, Engang and Zhao, Huan},
+  journal={ISA transactions},
+  volume={66},
+  pages={2--9},
+  year={2017},
+  publisher={Elsevier}
+}
+
+Zhou Gu, Linghui Yang; Gangen Tian; Huan Zhao. Event-triggered reliable H_\infty filter design for networked systems with multiple sensor distortions: a probabilistic partition approach. ISA transactions, 2017, 66(1):2-9. （二区）

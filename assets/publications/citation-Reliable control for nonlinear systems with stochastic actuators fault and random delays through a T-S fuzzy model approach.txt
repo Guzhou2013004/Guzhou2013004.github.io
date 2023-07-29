@@ -1,0 +1,12 @@
+@article{liu2016reliable,
+  title={Reliable control for nonlinear systems with stochastic actuators fault and random delays through a TS fuzzy model approach},
+  author={Liu, Jin-liang and Gu, Zhou and Fei, Shu-min},
+  journal={Acta Mathematicae Applicatae Sinica, English Series},
+  volume={32},
+  number={2},
+  pages={395--406},
+  year={2016},
+  publisher={Springer}
+}
+
+Jinliang Liu, Zhou Gu , Shumin Fei, Reliable control for nonlinear systems with stochastic actuators fault and random delays through a T-S fuzzy model approach, Acta Mathematicae Applicatae Sinica(English Series), 2016, 32(2): 395-406 （SCI）

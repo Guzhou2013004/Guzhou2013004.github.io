@@ -1,0 +1,11 @@
+@article{yan2020derivative,
+  title={Derivative-based event-triggered control for networked systems with quantization},
+  author={Yan, Shen and Yang, Fan and Gu, Zhou},
+  journal={Applied Mathematics and Computation},
+  volume={383},
+  pages={125359},
+  year={2020},
+  publisher={Elsevier}
+}
+
+Yan Shen, Fan Yang, and Zhou Gu*, Derivative-based event-triggered control for networked systems with quantization. Applied Mathematics and Computation, 2020, 383: 125359. （一区）

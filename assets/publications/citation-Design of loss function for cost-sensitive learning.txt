@@ -1,0 +1,11 @@
+@article{{0},
+ author = {李秋洁,赵亚琴, 顾洲},
+ title = {代价敏感学习中的损失函数设计},
+ journal = {控制理论与应用},
+ volume = {32},
+ number = {689-694},
+ year = {2015},
+ issn = {1000-8152}
+ }
+
+Qiujie Li, Yaqin Zhao, Zhou Gu. Design of loss function for cost-sensitive learning, Control Theory & Applications, 32(5),pp 695-702, 2015 (EI)

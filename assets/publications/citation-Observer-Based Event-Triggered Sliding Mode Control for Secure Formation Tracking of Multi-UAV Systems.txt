@@ -1,0 +1,13 @@
+@ARTICLE{9961897,
+  author={Yin, Tingting and Gu, Zhou and Xie, Xiangpeng},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={Observer-Based Event-Triggered Sliding Mode Control for Secure Formation Tracking of Multi-UAV Systems}, 
+  year={2023},
+  volume={10},
+  number={2},
+  pages={887-898},
+  doi={10.1109/TNSE.2022.3223978}}
+
+
+
+Tingting Yin, Zhou Gu* and Xiangpeng Xie, Observer-based event-triggered sliding mode control for secure formation tracking of multi-UAV systems, IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2022.3223978.

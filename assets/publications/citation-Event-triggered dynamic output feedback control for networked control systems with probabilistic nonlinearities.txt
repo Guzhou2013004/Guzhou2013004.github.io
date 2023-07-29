@@ -1,0 +1,11 @@
+@article{gu2018event,
+  title={Event-triggered dynamic output feedback control for networked control systems with probabilistic nonlinearities},
+  author={Gu, Zhou and Huan, Zhao and Yue, Dong and Yang, Fan},
+  journal={Information Sciences},
+  volume={457},
+  pages={99--112},
+  year={2018},
+  publisher={Elsevier}
+}
+
+Zhou Gu, Zhao Huan, Dong Yue, Fan Yang，Event-triggered dynamic output feedback control for networked control systems with probabilistic nonlinearities，Information Sciences, 2018,457-458:99-112.（一区）

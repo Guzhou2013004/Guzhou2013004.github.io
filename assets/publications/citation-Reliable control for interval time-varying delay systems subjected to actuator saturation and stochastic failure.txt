@@ -1,0 +1,11 @@
+@article{gu2012reliable,
+  title={Reliable control for interval time-varying delay systems subjected to actuator saturation and stochastic failure},
+  author={Gu, Zhou and Liu, Jingliang and Peng, Chen and Tian, Engang},
+  journal={Optimal Control Applications and Methods},
+  volume={33},
+  number={6},
+  pages={739--750},
+  year={2012},
+  publisher={Wiley Online Library}}
+
+Zhou GU, Chen Peng, Engang Tian. Reliable control for interval time-varying delay systems subjected to actuator saturation and stochastic failure. Optimal control applications and methods. 2012,33(6): 739-750. （SCI）

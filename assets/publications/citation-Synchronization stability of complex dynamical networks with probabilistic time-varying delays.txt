@@ -1,0 +1,9 @@
+@inproceedings{li2009synchronization,
+  title={Synchronization stability of complex dynamical networks with probabilistic time-varying delays},
+  author={Li, Hongjie and Yue, Dong and Gu, Zhou},
+  booktitle={Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference},
+  pages={621--625},
+  year={2009},
+  organization={IEEE}}
+
+Li H, Yue D, Gu Z. Synchronization stability of complex dynamical networks with probabilistic time-varying delays[C]// Decision and Control, 2009 Held Jointly with the 2009, Chinese Control Conference. Cdc/ccc 2009. Proceedings of the, IEEE Conference on. IEEE, 2010:621-625. （EI）

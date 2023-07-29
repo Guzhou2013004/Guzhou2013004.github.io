@@ -1,0 +1,7 @@
+@article{gu2011fault,
+  title={Fault-distribution dependent reliable control for TS fuzzy time-delayed systems},
+  author={Gu, Zhou and Liu, Jinliang and Peng, Chen and Tian, Engang},
+  year={2011}
+}
+
+Zhou GU, Liu, Jinliang; Peng, Chen. Fault-Distribution Dependent Reliable Control For T-S Fuzzy Time-Delayed Systems. Dynamic Systems, Measurement and Control. 2011， Vol. 133(6): 064503. （SCI）

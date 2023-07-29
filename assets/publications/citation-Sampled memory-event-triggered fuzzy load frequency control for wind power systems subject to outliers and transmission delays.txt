@@ -1,0 +1,12 @@
+@ARTICLE{9973424,
+  author={Yan, Shen and Gu, Zhou and Park, Ju H. and Xie, Xiangpeng},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Sampled Memory-Event-Triggered Fuzzy Load Frequency Control for Wind Power Systems Subject to Outliers and Transmission Delays}, 
+  year={2023},
+  volume={53},
+  number={6},
+  pages={4043-4053},
+  doi={10.1109/TCYB.2022.3224386}}
+
+Shen Yan, Zhou Gu*, Ju H. Park and Xiangpeng Xie, Sampled memory-event-triggered fuzzy load frequency control for wind 
+power systems subject to outliers and transmission delays, IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2022.3224386.

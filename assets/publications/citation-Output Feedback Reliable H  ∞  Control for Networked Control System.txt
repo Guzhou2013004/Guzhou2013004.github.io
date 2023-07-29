@@ -1,0 +1,10 @@
+@inproceedings{gu2014output,
+  title={Output Feedback Reliable H∞ Control for Networked Control System},
+  author={Gu, Zhou and Fei, Shumin and Zhuang, Baochun and Shi, Guangtao},
+  booktitle={Computational Intelligence, Networked Systems and Their Applications: International Conference of Life System Modeling and Simulation, LSMS 2014 and International Conference on Intelligent Computing for Sustainable Energy and Environment, ICSEE 2014, Shanghai, China, September 20-23, 2014, Proceedings, Part II},
+  pages={459--467},
+  year={2014},
+  organization={Springer}
+}
+
+Gu Zhou, Fei Shumin, Zhuang Baochun, Shi Guangtao. Output feedback reliable H∞ control for networked control system. Communications in Computer and Information Science, v 462, p 459-467, 2014. (EI)

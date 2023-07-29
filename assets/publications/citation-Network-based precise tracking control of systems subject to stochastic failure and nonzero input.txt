@@ -1,0 +1,12 @@
+@article{gu2013network,
+  title={Network-based precise tracking control of systems subject to stochastic failure and non-zero input},
+  author={Gu, Zhou and Tian, Engang and Liu, Jinliang and Huang, Lei and Zou, Hongyan and Zhao, Yaqin},
+  journal={IET Control Theory \& Applications},
+  volume={7},
+  number={10},
+  pages={1370--1376},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+Zhou Gu, Tian, Engang and Liu, Jinliang and Huang, Lei and Zou, Hongyan and Zhao, Yaqin. Network-based precise tracking control of systems subject to stochastic failure and nonzero input. IET Control Theory $\&$ Applications, 2013,Vol 7(10):1370—1376. （SCI）

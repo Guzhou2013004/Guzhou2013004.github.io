@@ -1,0 +1,11 @@
+@article{XIONG2021483,
+title = {Fixed-time adaptive observer-based time-varying formation control for multi-agent systems with directed topologies},
+journal = {Neurocomputing},
+volume = {463},
+pages = {483-494},
+year = {2021},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2021.08.081},
+}
+
+Tianyi Xiong, Zhou Gu*, Jiangqiang Yi, Zhiqiang Pu, Fixed-time adaptive observer-based time-varying formation control for multi-agent systems with directed topologies. Neurocomputing 2021, 463, 483-494.（二区）

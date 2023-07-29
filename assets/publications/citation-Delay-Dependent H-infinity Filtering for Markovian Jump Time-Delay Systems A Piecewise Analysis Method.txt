@@ -1,0 +1,11 @@
+@article{liu2011delay,
+  title={Delay-dependent H∞ filtering for Markovian jump time-delay systems: a piecewise analysis method},
+  author={Liu, Jinliang and Yao, Bingxue and Gu, Zhou},
+  journal={Circuits, Systems, and Signal Processing},
+  volume={30},
+  pages={1253--1273},
+  year={2011},
+  publisher={Springer}
+}
+
+Liu, Jinliang; Yao, Bingxue; Gu Zhou. Delay-Dependent H infinity Filtering for Markovian Jump Time-Delay Systems: A Piecewise Analysis Method.Circuits Systems And Signal Processing. 2011,30(6):1253-1273 （SCI）

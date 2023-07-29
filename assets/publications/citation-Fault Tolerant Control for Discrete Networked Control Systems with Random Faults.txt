@@ -1,0 +1,11 @@
+@article{tian2012fault,
+  title={Fault tolerant control for discrete networked control systems with random faults},
+  author={Tian, Engang and Peng, Chen and Gu, Zhou},
+  journal={International Journal of Control, Automation and Systems},
+  volume={10},
+  number={2},
+  pages={444--448},
+  year={2012},
+  publisher={Springer}}
+
+[1].Tian, Engang; Peng, Chen; Gu Zhou. Fault Tolerant Control for Discrete Networked Control Systems with Random Faults, International Journal of Control Automation And Systems. 2012,10 (2):444-448. （SCI）

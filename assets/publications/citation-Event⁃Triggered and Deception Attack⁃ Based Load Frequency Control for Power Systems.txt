@@ -1,0 +1,10 @@
+@article{{0}, 
+author = {季博威,张笑,严沈 & 顾洲}, 
+title = {基于事件触发和欺骗攻击的电力系统负荷频率控制}, 
+journal = {辽宁石油化工大学学报}, 
+volume = {42}, 
+number = {87-96}, 
+year = {2022}, 
+issn = {1672-6952} }
+
+Bowei Ji, Xiao Zhang, Shen Yan. Event⁃ Triggered and Deception Attack⁃ Based Load Frequency Control for Power Systems[J]. Journal of Liaoning University of Petroleum & Chemical Technology, 2022, 42(4): 87.

@@ -1,0 +1,10 @@
+@inproceedings{zhao2011reliable,
+  title={Reliable H∞ control for discrete networked control systems with probabilistic faults},
+  author={Zhao, Xia and Tian, Engang and Gu, Zhou and Chen, Huwei},
+  booktitle={Proceedings of the 30th Chinese Control Conference},
+  pages={4176--4181},
+  year={2011},
+  organization={IEEE}
+}
+
+Zhao, X., Tian, E., Gu, Z. , Chen, H. Reliable H∞ control for discrete networked control systems with probabilistic faults. Proceedings of the 30th Chinese Control Conference, CCC 2011, pp. 4176-4181. （EI）

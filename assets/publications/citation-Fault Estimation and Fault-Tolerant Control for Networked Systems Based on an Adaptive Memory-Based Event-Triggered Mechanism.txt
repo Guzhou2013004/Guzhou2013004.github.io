@@ -1,0 +1,11 @@
+@ARTICLE{9523775,
+  author={Gu, Zhou and Shi, Peng and Yue, Dong and Yan, Shen and Xie, Xiangpeng},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={Fault Estimation and Fault-Tolerant Control for Networked Systems Based on an Adaptive Memory-Based Event-Triggered Mechanism}, 
+  year={2021},
+  volume={8},
+  number={4},
+  pages={3233-3241},
+  doi={10.1109/TNSE.2021.3107935}}
+
+Zhou Gu; Peng Shi; Dong Yue; Shen Yan; Xiangpeng Xie, Fault estimation and fault-tolerant control for networked systems based on an adaptive memory-based event-triggered mechanism, IEEE Transactions on Network Science and Engineering, 2021, 8(4): 3233 - 3241.（三区）

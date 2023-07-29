@@ -1,0 +1,11 @@
+@ARTICLE{9697430,
+  author={Xie, Xiangpeng and Wei, Cong and Gu, Zhou and Shi, Kaibo},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Relaxed Resilient Fuzzy Stabilization of Discrete-Time Takagi–Sugeno Systems via a Higher Order Time-Variant Balanced Matrix Method}, 
+  year={2022},
+  volume={30},
+  number={11},
+  pages={5044-5050},
+  doi={10.1109/TFUZZ.2022.3145809}}
+
+Xiangpeng Xie; Cong Wei; Zhou Gu, Kaibo Shi, Relaxed resilient fuzzy stabilization of discrete-time Takagi–Sugeno systems via a higher order time-variant balanced matrix method, IEEE Transactions on Fuzzy Systems, vol. 30, no. 11, pp. 5044-5050, Nov. 2022.

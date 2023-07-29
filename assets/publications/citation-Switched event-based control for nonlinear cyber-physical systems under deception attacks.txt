@@ -1,0 +1,11 @@
+@article{yang2021switched,
+  title={Switched event-based control for nonlinear cyber-physical systems under deception attacks},
+  author={Yang, Fan and Gu, Zhou and Yan, Shen},
+  journal={Nonlinear Dynamics},
+  volume={106},
+  pages={2245--2257},
+  year={2021},
+  publisher={Springer}
+}
+
+Yang, Fan, Zhou Gu*, and Shen Yan. Switched event-based control for nonlinear cyber-physical systems under deception attacks Nonlinear Dynamics, vol. 106, 2245–2257, 2021. （二区）

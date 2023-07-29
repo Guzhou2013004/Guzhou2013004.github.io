@@ -1,0 +1,11 @@
+@INPROCEEDINGS{6852493,
+  author={Zhuang, Baochun and Shi, Guangtao and Gu, Zhou},
+  booktitle={The 26th Chinese Control and Decision Conference (2014 CCDC)}, 
+  title={Gain-scheduled H∞ control for networked superheated steam temperature}, 
+  year={2014},
+  volume={},
+  number={},
+  pages={1977-1982},
+  doi={10.1109/CCDC.2014.6852493}}
+
+Zhuang, Baochun; Shi, Guangtao; Gu Zhou*. Gain-scheduled H-infinity control for networked superheated steam temperature. 26th Chinese Control and Decision Conference (CCDC),2014. (EI)

@@ -1,0 +1,11 @@
+@ARTICLE{8951242,
+  author={Gu, Zhou and Park, Ju H. and Yue, Dong and Wu, Zheng-Guang and Xie, Xiangpeng},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={Event-Triggered Security Output Feedback Control for Networked Interconnected Systems Subject to Cyber-Attacks}, 
+  year={2021},
+  volume={51},
+  number={10},
+  pages={6197-6206},
+  doi={10.1109/TSMC.2019.2960115}}
+
+Zhou Gu, Ju H. Park, Dong Yue, Zheng-Guang Wu, and Xiangpeng Xie. Event triggered security output feedback control for networked interconnected systems subject to cyber-attacks, IEEE Transactions on Systems Man Cybernetics-Systems, 2021, 51(10), 6197 – 6206. （一区）

@@ -1,0 +1,10 @@
+@inproceedings{chen2008multiple,
+  title={Multiple sampling periods scheduling of networked control systems},
+  author={Chen, Peng and Dong, Yue and Zhou, Gu},
+  booktitle={2008 27th Chinese Control Conference},
+  pages={447--451},
+  year={2008},
+  organization={IEEE}
+}
+
+Chen P, Dong Y, Zhou G. Multiple Sampling Periods Scheduling of Networked Control Systems[C]// Control Conference, 2008. CCC. IEEE, 2008:447-451. （EI）

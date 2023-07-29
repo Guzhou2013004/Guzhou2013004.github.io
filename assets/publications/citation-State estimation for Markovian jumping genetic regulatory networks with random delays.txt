@@ -1,0 +1,11 @@
+@article{liu2014state,
+  title={State estimation for Markovian jumping genetic regulatory networks with random delays},
+  author={Liu, Jinliang and Tian, Engang and Gu, Zhou and Zhang, Yuanyuan},
+  journal={Communications in Nonlinear Science and Numerical Simulation},
+  volume={19},
+  number={7},
+  pages={2479--2492},
+  year={2014},
+  publisher={Elsevier}}
+
+Jinliang Liu, Engang Tian, Zhou Gu ; Yuanyuan Zhang,State estimation for Markovian jumping genetic regulatory networks with random delays.Communications in Nonlinear Science and Numerical Simulation. 19(7), pp 2479-2492, 2014. （SCI）谷歌：15  WOS：

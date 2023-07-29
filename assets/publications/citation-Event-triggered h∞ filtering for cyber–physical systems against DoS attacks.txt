@@ -1,0 +1,11 @@
+@ARTICLE{9941188,
+  author={Sun, Xiang and Gu, Zhou and Yue, Dong and Xie, Xiangpeng},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={Event-Triggered H∞ Filtering for Cyber–Physical Systems Against DoS Attacks}, 
+  year={2023},
+  volume={53},
+  number={5},
+  pages={2705-2715},
+  doi={10.1109/TSMC.2022.3218023}}
+
+Xiang Sun, Zhou Gu*, D. Yue and Xiangpeng Xie, Event-triggered h∞ filtering for cyber–physical systems against DoS attacks, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, doi: 10.1109/TSMC.2022.3218023.

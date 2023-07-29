@@ -1,0 +1,12 @@
+@article{yang2020event,
+  title={Event-driven finite-time control for continuous-time networked switched systems under cyber attacks},
+  author={Yang, Fan and Gu, Zhou and Cheng, Jun and Liu, Jinliang},
+  journal={Journal of the Franklin Institute},
+  volume={357},
+  number={16},
+  pages={11690--11709},
+  year={2020},
+  publisher={Elsevier}
+}
+
+FanYang, ZhouGu*, Jun Cheng, Jinliang Liu，Event-driven Finite-Time Control for Continuous-time Networked Switched Systems under Cyber Attacks, Journal of the Franklin Institute, 2020, 357(16): 11690-11709 (Nov) （二区）

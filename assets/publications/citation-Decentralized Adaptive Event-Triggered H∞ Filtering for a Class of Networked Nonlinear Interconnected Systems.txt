@@ -1,0 +1,11 @@
+@ARTICLE{8293799,
+  author={Gu, Zhou and Shi, Peng and Yue, Dong and Ding, Zhengtao},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Decentralized Adaptive Event-Triggered  $H_\infty$  Filtering for a Class of Networked Nonlinear Interconnected Systems}, 
+  year={2019},
+  volume={49},
+  number={5},
+  pages={1570-1579},
+  doi={10.1109/TCYB.2018.2802044}}
+
+Zhou Gu, Peng Shi, Dong Yue, Zhentao Ding, Decentralized Adaptive Event-Triggered H-infinity Filtering for a Class of Networked Nonlinear Interconnected Systems，IEEE Transcations on Cybernetics，2019, 49（5）：1570-1579 （一区）

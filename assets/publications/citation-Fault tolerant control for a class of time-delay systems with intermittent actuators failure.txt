@@ -1,0 +1,12 @@
+@article{gu2011fault,
+  title={Fault tolerant control for a class of time-delay systems with intermittent actuators failure},
+  author={Gu, Zhou and Zhang, Jian-Hua and Du, Li-Long},
+  journal={Control and Decision},
+  volume={26},
+  number={12},
+  pages={1829--1834},
+  year={2011},
+  publisher={Northeastern University, P. O. Box 125 Shenyang 110004 China}
+}
+
+Zhou GU, Jianhua Zhang,Lilong Du. Fault tolerant control for a class of time-delay systems with intermittent actuators failure. Control and Decision ,2011,(12). （EI）

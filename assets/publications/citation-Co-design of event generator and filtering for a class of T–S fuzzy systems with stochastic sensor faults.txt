@@ -1,0 +1,11 @@
+@article{liu2015co,
+  title={Co-design of event generator and filtering for a class of T--S fuzzy systems with stochastic sensor faults},
+  author={Liu, Jinliang and Fei, Shumin and Tian, Engang and Gu, Zhou},
+  journal={Fuzzy Sets and Systems},
+  volume={273},
+  pages={124--140},
+  year={2015},
+  publisher={Elsevier}
+}
+
+Jinliang Liu; Shumin Fei; Engang Tian; Zhou Gu. Co-design of event generator and filtering for a class of T-S fuzzy systems with stochastic sensor faults, Fuzzy Sets and Systems, vol.273, pp.124-140, 2015.

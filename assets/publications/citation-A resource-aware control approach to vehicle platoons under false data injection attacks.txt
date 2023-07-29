@@ -1,0 +1,11 @@
+@article{yang2022resource,
+  title={A resource-aware control approach to vehicle platoons under false data injection attacks},
+  author={Yang, Fan and Gu, Zhou and Hua, Lingzhi and Yan, Shen},
+  journal={ISA transactions},
+  volume={131},
+  pages={367--376},
+  year={2022},
+  publisher={Elsevier}
+}
+
+Fan Yang, Zhou Gu*, Lingzhi Hua, Shen Yan, A resource-aware control approach to vehicle platoons under false data injection attacks, ISA Transactions, Vol. 131, 2022, Pages 367-376.

@@ -1,0 +1,10 @@
+@inproceedings{gu2009reliable,
+  title={Reliable observer-based control for networked control system with state time delay},
+  author={Gu, Zhou and Yue, Dong and Wang, Daobo},
+  booktitle={2009 7th Asian Control Conference},
+  pages={215--219},
+  year={2009},
+  organization={IEEE}
+}
+
+Gu, Z., Yue, D., Wang, D. Reliable observer-based control for networked control system with state time delay. Proceedings of 2009 7th Asian Control Conference, ASCC 2009, pp. 215-219. (EI)

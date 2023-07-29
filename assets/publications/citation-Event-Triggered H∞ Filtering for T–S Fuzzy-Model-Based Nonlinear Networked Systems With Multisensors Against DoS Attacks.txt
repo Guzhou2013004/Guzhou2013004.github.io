@@ -1,0 +1,11 @@
+@ARTICLE{9250020,
+  author={Gu, Zhou and Ahn, Choon Ki and Yue, Dong and Xie, Xiangpeng},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Event-Triggered H∞ Filtering for T–S Fuzzy-Model-Based Nonlinear Networked Systems With Multisensors Against DoS Attacks}, 
+  year={2022},
+  volume={52},
+  number={6},
+  pages={5311-5321},
+  doi={10.1109/TCYB.2020.3030028}}
+
+Zhou Gu, Choon Ki Ahn, Dong Yue, Xiangpeng Xie, Event-triggered H∞ filtering for T-S fuzzy-model-based nonlinear networked systems with multisensors against dos attacks, IEEE Transactions on Cybernetics, vol. 52, no. 6, pp. 5311-5321, June 2022. (一区)

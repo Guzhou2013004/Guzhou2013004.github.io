@@ -1,0 +1,11 @@
+@ARTICLE{9775175,
+  author={Gu, Zhou and Ahn, Choon Ki and Yan, Shen and Xie, Xiangpeng and Yue, Dong},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+  title={Event-Triggered Filter Design Based on Average Measurement Output for Networked Unmanned Surface Vehicles}, 
+  year={2022},
+  volume={69},
+  number={9},
+  pages={3804-3808},
+  doi={10.1109/TCSII.2022.3175221}}
+
+Zhou Gu, Choon Ki Ahn, Shen Yan ,Xiangpeng Xie, Dong Yue, Event-triggered filter design based on average measurement output for networked unmanned surface vehicles, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 9, pp. 3804-3808, Sept. 2022.

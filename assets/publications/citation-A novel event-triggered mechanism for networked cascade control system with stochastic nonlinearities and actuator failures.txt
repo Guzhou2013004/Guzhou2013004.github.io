@@ -1,0 +1,12 @@
+@article{gu2019novel,
+  title={A novel event-triggered mechanism for networked cascade control system with stochastic nonlinearities and actuator failures},
+  author={Gu, Zhou and Zhang, Tao and Yang, Fan and Zhao, Huan and Shen, Mouquan},
+  journal={Journal of the Franklin Institute},
+  volume={356},
+  number={4},
+  pages={1955--1974},
+  year={2019},
+  publisher={Elsevier}
+}
+
+Zhou Gu, Tao Zhang, Zhao Huan, Fan Yang, Mouquan Shen, A novel event-triggered mechanism for networked cascade control system with stochastic nonlinearities and actuator failures [J]. Journal of the Franklin Institute, 2019, 356(4): 1955-1974. （二区）

@@ -1,0 +1,11 @@
+@article{liu2011h,
+  title={H∞ filtering for systems with time-varying delay satisfying a certain stochastic characteristic},
+  author={Liu, Jinliang and Yue, Dong and Gu, Z and Tian, E},
+  journal={IET signal processing},
+  volume={5},
+  number={8},
+  pages={757--766},
+  year={2011},
+  publisher={IET}
+}
+Liu, J.; Yue, D.; Gu, Z. , H-infinity filtering for systems with time-varying delay satisfying a certain stochastic characteristic. IET SIGNAL PROCESSING. 2011, 5(8): 757-766 （SCI）

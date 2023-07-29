@@ -1,0 +1,11 @@
+@inproceedings{gu2008h,
+  title={H∞ Infinity Network-Servo Tracking Control},
+  author={Gu, Zhou and Wang, Daobo},
+  booktitle={2008 International Symposium on Computer Science and Computational Technology},
+  volume={2},
+  pages={402--405},
+  year={2008},
+  organization={IEEE}
+}
+
+Zhou GU., Wang, D. H∞ network-servo tracking control. International Symposium on Computer Science and Computational Technology, ISCSCT 2008, pp. 402-405. （EI）

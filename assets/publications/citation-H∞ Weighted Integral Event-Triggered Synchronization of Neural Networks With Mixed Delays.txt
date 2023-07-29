@@ -1,0 +1,11 @@
+@ARTICLE{9123556,
+  author={Yan, Shen and Nguang, Sing Kiong and Gu, Zhou},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={$H_{\infty }$ Weighted Integral Event-Triggered Synchronization of Neural Networks With Mixed Delays}, 
+  year={2021},
+  volume={17},
+  number={4},
+  pages={2365-2375},
+  doi={10.1109/TII.2020.3004461}}
+
+Yan, Shen, Sing Kiong Nguang*, and Zhou Gu*, $H_\infty$ Weighted Integral Event-Triggered Synchronization of Neural Networks with Mixed Delays. IEEE Transactions on Industrial Informatics, Apr. 2021, 17(4), 2365 – 2375.（一区）

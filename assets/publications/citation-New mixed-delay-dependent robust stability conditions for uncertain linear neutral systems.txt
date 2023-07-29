@@ -1,0 +1,11 @@
+@article{chen2014new,
+  title={New mixed-delay-dependent robust stability conditions for uncertain linear neutral systems},
+  author={Chen, Yonggang and Fei, Shumin and Gu, Zhou and Li, Yongmin},
+  journal={IET Control Theory \& Applications},
+  volume={8},
+  number={8},
+  pages={606--613},
+  year={2014},
+  publisher={Wiley Online Library}}
+
+Yonggang Chen, Shumin Fei, Zhou Gu, Yongmin Li. New mixed-delay-dependent robust stability conditions for uncertain linear neutral systems. IET Control Theory and Applications. 8(8), pp 606-613, 2014. （SCI）谷歌：27 WOS：

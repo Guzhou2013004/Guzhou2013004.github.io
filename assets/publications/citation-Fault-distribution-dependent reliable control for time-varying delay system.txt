@@ -1,0 +1,11 @@
+@article{gu2011fault,
+  title={Fault-distribution-dependent reliable control for time-varying delay system},
+  author={Gu, Zhou and Liu, Jinliang and Du, Lilong and Tian, Engang},
+  journal={Journal of Control Theory and Applications},
+  volume={9},
+  pages={589--593},
+  year={2011},
+  publisher={Springer}
+}
+
+Zhou GU, Jinliang Liu, Lilong Du, Engang Tian. Fault-distribution-dependent reliable control for time-varying delay system, Journal of Control Theory and Applications, 2011，9 (4) 589–593. （SCI）

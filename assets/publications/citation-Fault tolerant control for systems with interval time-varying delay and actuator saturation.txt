@@ -1,0 +1,12 @@
+@article{gu2013fault,
+  title={Fault tolerant control for systems with interval time-varying delay and actuator saturation},
+  author={Gu, Zhou and Yue, Dong and Peng, Chen and Liu, Jinliang and Zhang, Jianhua},
+  journal={Journal of the Franklin Institute},
+  volume={350},
+  number={2},
+  pages={231--243},
+  year={2013},
+  publisher={Elsevier}
+}
+
+Zhou Gu, Dong Yue, Chen Peng, Jinliang Liu. Fault tolerant control for systems with interval time-varying delay and actuator saturation. Journal of the Franklin Institute，2013, Vol 350(2): 231–243. （SCI）

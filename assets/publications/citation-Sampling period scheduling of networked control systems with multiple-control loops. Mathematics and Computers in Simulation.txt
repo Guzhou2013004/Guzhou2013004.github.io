@@ -1,0 +1,12 @@
+@article{peng2009sampling,
+  title={Sampling period scheduling of networked control systems with multiple-control loops},
+  author={Peng, Chen and Yue, Dong and Gu, Zhou and Xia, Feng},
+  journal={Mathematics and Computers in Simulation},
+  volume={79},
+  number={5},
+  pages={1502--1511},
+  year={2009},
+  publisher={Elsevier}
+}
+
+Chen Peng, Dong Yue, Zhou Gu. Sampling period scheduling of networked control systems with multiple-control loops. Mathematics and Computers in Simulation,2009,79(5): 1502-1511. （SCI）

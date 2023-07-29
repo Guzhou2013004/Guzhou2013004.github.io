@@ -1,0 +1,12 @@
+@article{mu2022memory,
+  title={Memory-based event-triggered leader-following consensus for TS fuzzy multi-agent systems subject to deception attacks},
+  author={Mu, Xiufeng and Gu, Zhou and Hua, Lingzhi},
+  journal={Journal of the Franklin Institute},
+  volume={359},
+  number={1},
+  pages={599--618},
+  year={2022},
+  publisher={Elsevier}
+}
+
+Xiufeng Mu, Zhou Gu, Linzhi Hua, Memory-based event-triggered leader-following consensus for T-S fuzzy multi-agent systems subject to deception attacks, Journal of the franklin institute, vol. 359, no.1,pp. 599-618, Jan, 2022（二区）

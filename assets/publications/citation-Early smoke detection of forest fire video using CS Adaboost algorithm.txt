@@ -1,0 +1,12 @@
+@article{zhao2015early,
+  title={Early smoke detection of forest fire video using CS Adaboost algorithm},
+  author={Zhao, Yaqin and Li, Qiujie and Gu, Zhou},
+  journal={Optik-International Journal for Light and Electron Optics},
+  volume={126},
+  number={19},
+  pages={2121--2124},
+  year={2015},
+  publisher={Elsevier}
+}
+
+Zhao Y, Li Q, Gu Z. Early smoke detection of forest fire video using CS Adaboost algorithm[J]. Optik-International Journal for Light and Electron Optics, 2015, 126(19): 2121-2124. （SCI）

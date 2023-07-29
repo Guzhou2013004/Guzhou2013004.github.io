@@ -1,0 +1,13 @@
+@ARTICLE{9931507,
+  author={Gu, Zhou and Yue, Dong and Ahn, Choon Ki and Yan, Shen and Xie, Xiangpeng},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Segment-Weighted Information-Based Event-Triggered Mechanism for Networked Control Systems}, 
+  year={2023},
+  volume={53},
+  number={8},
+  pages={5336-5345},
+  doi={10.1109/TCYB.2022.3215015}}
+
+
+Zhou Gu, D. Yue, C. K. Ahn, Shen Yan and Xiangpeng Xie, Segment-weighted information-based event-triggered mechanism for networked
+ control systems, IEEE Transactions on Cybernetics, 2022, doi: 10.1109/TCYB.2022.3215015.

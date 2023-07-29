@@ -1,0 +1,11 @@
+@ARTICLE{9319726,
+  author={Yan, Shen and Gu, Zhou and Ahn, Choon Ki},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+  title={Memory-Event-Triggered H∞ Filtering of Unmanned Surface Vehicles With Communication Delays}, 
+  year={2021},
+  volume={68},
+  number={7},
+  pages={2463-2467},
+  doi={10.1109/TCSII.2021.3050760}}
+
+Shen Yan, Zhou Gu*, Choon Ki Ahn, Memory-event-triggered H-infty filtering of unmanned surface vehicles with communication delays, IEEE Transactions on Circuits and Systems--II: Express Briefs, Jul. 2021, 68(7), 2463 – 2467. （二区）

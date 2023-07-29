@@ -1,0 +1,12 @@
+@article{gu2017adaptive,
+  title={Adaptive event-triggered control of a class of nonlinear networked systems},
+  author={Gu, Zhou and Tian, Engang and Liu, Jinliang},
+  journal={Journal of the Franklin Institute},
+  volume={354},
+  number={9},
+  pages={3854--3871},
+  year={2017},
+  publisher={Elsevier}
+}
+
+Zhou Gu, Tian E, Liu J. Adaptive event-triggered control of a class of nonlinear networked systems [J]. Journal of the Franklin Institute, 2017，3543854-3871. （二区）

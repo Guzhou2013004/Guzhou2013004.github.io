@@ -1,0 +1,9 @@
+@inproceedings{lilong2010new,
+  title={A new analysis method for interval time-varying delay systems with probabilistic actuator-fault-occurrence},
+  author={Lilong, Du and Zhou, Gu and Yuanyuan, Zhang and Jianhua, Zhang},
+  booktitle={2010 Chinese Control and Decision Conference},
+  pages={211--215},
+  year={2010},
+  organization={IEEE}}
+
+Du, L., Gu, Z. , Zhang, Y., Zhang, J. A new analysis method for interval time-varying delay systems with probabilistic actuator-fault-occurrence. 2010 Chinese Control and Decision Conference, CCDC 2010, pp. 211-215. （EI）

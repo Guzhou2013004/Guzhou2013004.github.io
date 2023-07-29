@@ -1,0 +1,15 @@
+@ARTICLE{9733960,
+  author={Gu, Zhou and Yue, Dong and Park, Ju H. and Xie, Xiangpeng},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Memory-Event-Triggered Fault Detection of Networked IT2 T–S Fuzzy Systems}, 
+  year={2023},
+  volume={53},
+  number={2},
+  pages={743-752},
+  doi={10.1109/TCYB.2022.3155755}
+}
+
+
+
+Zhou Gu, Dong Yue, Ju H. Park, Xiangpeng Xie， Memory-event-triggered fault detection of networked IT2 T-S fuzzy systems，
+IEEE Transactions on Cybernetics，DOI: 10.1109/TCYB.2022.3155755. 

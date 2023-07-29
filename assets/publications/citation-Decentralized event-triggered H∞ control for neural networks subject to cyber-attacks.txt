@@ -1,0 +1,11 @@
+@article{zha2018decentralized,
+  title={Decentralized event-triggered H∞ control for neural networks subject to cyber-attacks},
+  author={Zha, Lijuan and Tian, Engang and Xie, Xiangpeng and Gu, Zhou and Cao, Jie},
+  journal={Information Sciences},
+  volume={457},
+  pages={141--155},
+  year={2018},
+  publisher={Elsevier}
+}
+
+Lijuan Zha, EngangTian, Xiangpeng Xie, Zhou Gu, JieCao. Decentralized event-triggered H∞ control for neural networks subject to cyber-attacks. Information Sciences 457 (2018): 141-155.（一区）

@@ -1,0 +1,11 @@
+@ARTICLE{9966627,
+  author={Yan, Shen and Gu, Zhou and Park, Ju H. and Xie, Xiangpeng},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={Distributed-Delay-Dependent Stabilization for Networked Interval Type-2 Fuzzy Systems With Stochastic Delay and Actuator Saturation}, 
+  year={2023},
+  volume={53},
+  number={5},
+  pages={3165-3175},
+  doi={10.1109/TSMC.2022.3223148}}
+
+Shen Yan, Zhou Gu*, Ju H. Park and Xiangpeng Xie, Distributed-delay-dependent stabilization for networked interval type-2 fuzzy systems with stochastic delay and actuator saturation, IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2022.3223148.

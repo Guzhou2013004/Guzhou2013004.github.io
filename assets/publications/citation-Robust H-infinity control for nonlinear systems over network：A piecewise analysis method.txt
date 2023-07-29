@@ -1,0 +1,11 @@
+@article{tian2010robust,
+  title={Robust H∞ control for nonlinear systems over network: A piecewise analysis method},
+  author={Tian, Engang and Yue, Dong and Gu, Zhou},
+  journal={Fuzzy Sets and Systems},
+  volume={161},
+  number={21},
+  pages={2731--2745},
+  year={2010},
+  publisher={Elsevier}}
+
+Engang Tian,Dong Yue, Zhou Gu. Robust H-infinity control for nonlinear systems over network: A piecewise analysis method. Fuzzy sets and systems, 2010, 161(21): 2731-2745. （SCI）

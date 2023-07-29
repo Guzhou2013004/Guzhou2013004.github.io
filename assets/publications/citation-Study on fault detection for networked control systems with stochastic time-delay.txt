@@ -1,0 +1,10 @@
+@inproceedings{gu2010study,
+  title={Study on fault detection for networked control systems with stochastic time-delay},
+  author={Gu, Zhou and Tian, Engang and Peng, Chen and Wu, Wei},
+  booktitle={Proceedings of the 29th Chinese Control Conference},
+  pages={3910--3915},
+  year={2010},
+  organization={IEEE}
+}
+
+Zhou GU, Engang Tian, Chen Peng. Study on fault detection for networked control systems with stochastic time-delay[C]//Proceedings of the 29th Chinese Control Conference, CCC'10. （EI）

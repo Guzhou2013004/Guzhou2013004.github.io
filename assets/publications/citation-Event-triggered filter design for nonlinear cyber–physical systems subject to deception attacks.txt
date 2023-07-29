@@ -1,0 +1,11 @@
+@article{gu2020event,
+  title={Event-triggered filter design for nonlinear cyber--physical systems subject to deception attacks},
+  author={Gu, Zhou and Zhou, Xiaohong and Zhang, Tao and Yang, Fan and Shen, Mouquan},
+  journal={ISA transactions},
+  volume={104},
+  pages={130--137},
+  year={2020},
+  publisher={Elsevier}
+}
+
+Zhou Gu, Xiaohong Zhou, Tao Zhang, Fan Yang, Mouquan Shen. Event-triggered filter design for nonlinear cyber-physical systems subject to deception attacks, ISA transactions, 2020, 104:130-137. （二区）

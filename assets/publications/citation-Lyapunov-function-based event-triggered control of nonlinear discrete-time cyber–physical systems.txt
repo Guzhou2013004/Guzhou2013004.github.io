@@ -1,0 +1,11 @@
+@ARTICLE{9686064,
+  author={Yan, Shen and Gu, Zhou and Park, Ju H.},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+  title={Lyapunov-Function-Based Event-Triggered Control of Nonlinear Discrete-Time Cyber–Physical Systems}, 
+  year={2022},
+  volume={69},
+  number={6},
+  pages={2817-2821},
+  doi={10.1109/TCSII.2022.3144354}}
+
+Shen Yan, Zhou Gu*, Ju H Park, Lyapunov-function-based event-triggered control of nonlinear discrete-time cyber–physical systems, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 6, pp. 2817-2821, June 2022.

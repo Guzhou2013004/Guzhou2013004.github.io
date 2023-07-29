@@ -1,0 +1,11 @@
+@article{gu2012fault,
+  title={Fault-distribution-dependent reliable fuzzy control for TS fuzzy systems with interval time-varying delay},
+  author={Gu, Zhou and Liu, Jinliang and Peng, Chen and Tian, Engang},
+  journal={Journal of the Chinese Institute of Engineers},
+  volume={35},
+  number={6},
+  pages={633--640},
+  year={2012},
+  publisher={Taylor \& Francis}}
+
+Fault-distribution-dependent reliable fuzzy control for T-S fuzzy systems with interval time-varying delay. Journal of the Chinese Institute of Engineers. 2012,Vol.35(6) : 633-640. （SCI）

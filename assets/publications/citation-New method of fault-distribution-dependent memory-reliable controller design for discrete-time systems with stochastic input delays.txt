@@ -1,0 +1,11 @@
+@article{gu2011new,
+  title={New method of fault-distribution-dependent memory-reliable controller design for discrete-time systems with stochastic input delays},
+  author={Gu, Z and Wang, D and Yue, D},
+  journal={IET control theory \& applications},
+  volume={5},
+  number={1},
+  pages={38--46},
+  year={2011},
+  publisher={IET}
+}
+Zhou GU,Daobo Wang,Dong Yue. New method of fault-distribution-dependent memory-reliable controller design for discrete-time systems with stochastic input delays, IET control theory and applications, 2011,5(1) :38-46. （SCI）

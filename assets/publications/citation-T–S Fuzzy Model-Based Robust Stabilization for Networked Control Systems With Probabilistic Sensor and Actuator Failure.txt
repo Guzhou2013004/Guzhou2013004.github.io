@@ -1,0 +1,12 @@
+@article{tian2011t,
+  title={T--S fuzzy model-based robust stabilization for networked control systems with probabilistic sensor and actuator failure},
+  author={Tian, Engang and Yue, Dong and Yang, Tai Cheng and Gu, Zhou and Lu, Guoping},
+  journal={IEEE Transactions on Fuzzy systems},
+  volume={19},
+  number={3},
+  pages={553--561},
+  year={2011},
+  publisher={IEEE}
+}
+
+Tian E, Yue D, Yang T C, Zhou Gu. T–S Fuzzy Model-Based Robust Stabilization for Networked Control Systems With Probabilistic Sensor and Actuator Failure[J]. IEEE Transactions on Fuzzy Systems, 2011, 19(3):553-561. （SCI）

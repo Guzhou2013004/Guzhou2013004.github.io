@@ -1,0 +1,11 @@
+@ARTICLE{8704716,
+  author={Zhou, Xiaohong and Gu, Zhou and Yang, Fan},
+  journal={IEEE Access}, 
+  title={Resilient Event-Triggered Output Feedback Control for Load Frequency Control Systems Subject to Cyber Attacks}, 
+  year={2019},
+  volume={7},
+  number={},
+  pages={58951-58958},
+  doi={10.1109/ACCESS.2019.2914492}}
+
+Xiaohong Zhou, Zhou Gu*, Fan Yang, Resilient event-triggered output feedback control for load frequency control systems subject to cyber attacks, IEEE Access, 2019,7:58951-58958.

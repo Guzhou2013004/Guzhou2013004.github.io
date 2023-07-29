@@ -1,0 +1,11 @@
+@ARTICLE{9373911,
+  author={Yan, Shen and Gu, Zhou and H. Park, Ju},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={Memory-Event-Triggered $H_{\infty }$ Load Frequency Control of Multi-Area Power Systems With Cyber-Attacks and Communication Delays}, 
+  year={2021},
+  volume={8},
+  number={2},
+  pages={1571-1583},
+  doi={10.1109/TNSE.2021.3064933}}
+
+Shen Yan; Zhou Gu*; Ju H. Park. Memory-Event-Triggered $H_{\infty }$ Load Frequency Control of Multi-Area Power Systems With Cyber-Attacks and Communication Delays, IEEE Transactions on Network Science and Engineering, 2021, 8(2):1571-1583. （三区）

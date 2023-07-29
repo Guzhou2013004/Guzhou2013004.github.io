@@ -1,0 +1,10 @@
+@inproceedings{gu2011reliable,
+  title={Reliable output feedback control for systems with control input delay and stochastic actuator failure},
+  author={Gu, Zhou and Li, Teng and Cheng, Zhixiang and Xie, Bin and Dong, Huan and Guo, Liangqing},
+  booktitle={2011 Chinese Control and Decision Conference (CCDC)},
+  pages={1330--1334},
+  year={2011},
+  organization={IEEE}
+}
+
+Zhou GU., Li, T., Cheng, Z., Xie, B., Dong, H., Guo, L. Reliable output feedback control for systems with control input delay and stochastic actuator failure. Proceedings of the 2011 Chinese Control and Decision Conference, CCDC 2011, pp. 1330-1334. （EI）

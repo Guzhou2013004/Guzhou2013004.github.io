@@ -1,0 +1,11 @@
+@article{{0}, 
+author = {顾洲,王道波,田恩刚 & 刘金良}, 
+title = {一类含有随机输入时延和故障的离散系统H_∞控制}, 
+journal = {系统工程与电子技术}, 
+volume = {32}, 
+number = {1741-1744}, 
+year = {2010}, 
+issn = {1001-506X}
+}
+
+Zhou GU, Daobo Wang, Engang Tian, Jinliang Liu. H∞ reliability control for a class of discrete-time systems with stochastic input 	delays and failures. Systems Engineering and Electronics,2010,(8). （EI）

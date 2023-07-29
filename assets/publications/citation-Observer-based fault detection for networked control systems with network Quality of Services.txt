@@ -1,0 +1,11 @@
+@article{peng2010observer,
+  title={Observer-based fault detection for networked control systems with network quality of services},
+  author={Peng, Chen and Yue, Dong and Tian, Engang and Gu, Zhou},
+  journal={Applied Mathematical Modelling},
+  volume={34},
+  number={6},
+  pages={1653--1661},
+  year={2010},
+  publisher={Elsevier}}
+
+Chen Peng, Dong Yue, Engang Tian, Zhou Gu. Observer-based fault detection for networked control systems with network Quality of Services. Applied mathematical modelling, 2010,34(6):1653-1661. （SCI）

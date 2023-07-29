@@ -1,0 +1,11 @@
+@ARTICLE{9542969,
+  author={Gu, Zhou and Yan, Shen and Park, Ju H. and Xie, Xiangpeng},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs}, 
+  title={Event-Triggered Synchronization of Chaotic Lur’e Systems via Memory-Based Triggering Approach}, 
+  year={2022},
+  volume={69},
+  number={3},
+  pages={1427-1431},
+  doi={10.1109/TCSII.2021.3113955}}
+
+Gu, Zhou, Shen Yan; Ju H. Park; Xiangpeng Xie. Event-triggered synchronization of chaotic Lur’e systems via memory-based triggering approach, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1427-1431, March 2022. （二区）

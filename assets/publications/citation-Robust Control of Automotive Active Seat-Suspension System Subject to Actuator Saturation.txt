@@ -1,0 +1,12 @@
+@article{gu2014robust,
+  title={Robust control of automotive active seat-suspension system subject to actuator saturation},
+  author={Gu, Zhou and Fei, Shumin and Zhao, Yaqin and Tian, Engang},
+  journal={Journal of Dynamic Systems, Measurement, and Control},
+  volume={136},
+  number={4},
+  pages={041022},
+  year={2014},
+  publisher={American Society of Mechanical Engineers}
+}
+
+Zhou Gu, Shumin Fei, Yaqin Zhao, Engang Tian. Robust control of automotive active seat-suspension system subject to actuator saturation, Journal of Dynamic Systems, Measurement and Control. 136 (4), pp. 041022, 2014.

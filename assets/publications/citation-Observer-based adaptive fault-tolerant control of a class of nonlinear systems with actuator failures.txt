@@ -1,0 +1,11 @@
+@INPROCEEDINGS{7737605,
+  author={Yang, Yang and Yue, Dong and Gu, Zhou},
+  booktitle={2016 UKACC 11th International Conference on Control (CONTROL)}, 
+  title={Observer-based adaptive fault-tolerant control of a class of nonlinear systems with actuator failures}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/CONTROL.2016.7737605}}
+
+Yang Y, Dong Y, Zhou G. Observer-based adaptive fault-tolerant control of a class of nonlinear systems with actuator failures[C]// Ukacc, International Conference on Control. IEEE, 2016:1-6. (EI)

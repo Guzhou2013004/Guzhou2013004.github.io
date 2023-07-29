@@ -1,0 +1,13 @@
+@ARTICLE{9839515,
+  author={Yan, Shen and Gu, Zhou and Park, Ju H. and Xie, Xiangpeng},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Synchronization of Delayed Fuzzy Neural Networks with Probabilistic Communication Delay and Its Application to Image Encryption}, 
+  year={2023},
+  volume={31},
+  number={3},
+  pages={930-940},
+  doi={10.1109/TFUZZ.2022.3193757}}
+
+
+
+Shen Yan, Zhou Gu*, Ju H. Park and Xiangpeng Xie, Synchronization of delayed fuzzy neural networks with probabilistic communication delay and its application to image encryption, IEEE Transactions on Fuzzy Systems, 2022, doi: 10.1109/TFUZZ.2022.3193757.

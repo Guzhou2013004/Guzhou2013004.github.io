@@ -1,0 +1,12 @@
+@article{liu2011ts,
+  title={TS fuzzy model-based memory control for discrete-time system with random input delay},
+  author={Liu, Jinliang and Gu, Zhou and Han, Hua and Hu, Songlin},
+  journal={Iranian Journal of Fuzzy Systems},
+  volume={8},
+  number={3},
+  pages={67--79},
+  year={2011},
+  publisher={University of Sistan and Baluchestan}
+}
+
+Liu, J.; Gu, Z.; Han, H.,T-S fuzzy model-based memory control for discrete-time system with random input delay. Iranian Journal Of Fuzzy Systems.2011,8(3): 67-79. （SCI）

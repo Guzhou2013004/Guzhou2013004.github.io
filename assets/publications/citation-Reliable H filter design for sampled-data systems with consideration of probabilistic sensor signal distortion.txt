@@ -1,0 +1,12 @@
+@article{gu2013reliable,
+  title={Reliable H∞ filter design for sampled-data systems with consideration of probabilistic sensor signal distortion},
+  author={Gu, Zhou and Tian, Engang and Liu, Jinliang},
+  journal={IET Signal Processing},
+  volume={7},
+  number={5},
+  pages={420--426},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+Zhou Gu, Engang Tian, Jinliang Liu.Reliable $H_\infty$ filter design for sampled-data systems with consideration of probabilistic sensor signal distortion. IET Signal Processing. 2013, Vol 7(5): 420--426. （SCI）

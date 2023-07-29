@@ -1,0 +1,11 @@
+@article{liu2010h,
+  title={H 8 Filtering for time-delay systems with Markovian jumping parameters: Delay partitioning approach},
+  author={Liu, Jinliang and Yu, Wenguang and Gu, Zhou and Hu, Songlin},
+  journal={Journal of the Chinese Institute of Engineers},
+  volume={33},
+  number={3},
+  pages={357--365},
+  year={2010},
+  publisher={Taylor \& Francis}}
+
+Jingliang Liu, Wenguang Yu, Zhou Gu , Songling Hu. H∞ filtering for time-delay systems with markovian jumping parameters: Delay partitioning approach. Journal of the Chinese Institute of Engineers, Transactions of the Chinese Institute of Engineers,Series A, 2010,33(3), 357-365. （SCI）

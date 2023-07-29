@@ -1,0 +1,11 @@
+@ARTICLE{9139198,
+  author={Zhou, Xiaohong and Gu, Zhou},
+  journal={IEEE Access}, 
+  title={Event-Triggered H∞ Filter Design of T-S Fuzzy Systems Subject to Hybrid Attacks and Sensor Saturation}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={126530-126539},
+  doi={10.1109/ACCESS.2020.3008815}}
+
+Xiaohong Zhou, Zhou Gu*, Event-triggered $H_\infty$ filter design of T-S fuzzy systems subject to hybrid attacks and sensor saturation, IEEE Access, 2020,8：126530-126539. 

@@ -574,7 +574,7 @@ section {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
-  z-index: 1;
+  z-index: 1;   
 }
 
 .portfolio .portfolio-wrap::before {
@@ -588,6 +588,12 @@ section {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
+}
+
+.custom-paragraph {
+  position: relative; /* Set position to enable z-index */
+  z-index: 4; /* Set the desired z-index value */
+  /* Additional styles for the paragraph (if needed) */
 }
 
 .portfolio .portfolio-wrap .portfolio-links {

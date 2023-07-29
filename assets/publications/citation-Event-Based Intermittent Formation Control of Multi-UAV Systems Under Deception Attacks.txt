@@ -1,0 +1,13 @@
+@ARTICLE{9982552,
+  author={Yin, Tingting and Gu, Zhou and Park, Ju H.},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Event-Based Intermittent Formation Control of Multi-UAV Systems Under Deception Attacks}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TNNLS.2022.3227101}}
+
+
+Tingting Yin, Zhou Gu*, Ju H. Park, Event-based intermittent formation control of multi-UAV systems under deception attacks,
+ IEEE Transactions on Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2022.3227101.

@@ -1,0 +1,11 @@
+@article{sun2021memory,
+  title={Memory-event-trigger-based secure control of cloud-aided active suspension systems against deception attacks},
+  author={Sun, Xiang and Gu, Zhou and Yang, Fan and Yan, Shen},
+  journal={Information sciences},
+  volume={543},
+  pages={1--17},
+  year={2021},
+  publisher={Elsevier}
+}
+
+Xiang Sun, Zhou Gu*, Fan Yang, Yan Shen, Memory-event-trigger-based secure control of cloud-aided active suspension systems against deception attacks, Information Sciences, 2021,543:1-17 Jan. （一区）

@@ -1,0 +1,12 @@
+@article{shen2015finite,
+  title={Finite-time H∞ filtering of Markov jump systems with incomplete transition probabilities: a probability approach},
+  author={Shen, Mouquan and Yan, Shen and Tang, Ze and Gu, Zhou},
+  journal={IET Signal Processing},
+  volume={9},
+  number={7},
+  pages={572--578},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+Shen M, Yan S, Tang Z, Zhou Gu. Finite-time H∞ filtering of Markov jump systems with incomplete transition probabilities: a probability approach[J]. Signal Processing, IET, 2015, 9(7): 572-578. （SCI）（SCI）谷歌：9  WOS：
