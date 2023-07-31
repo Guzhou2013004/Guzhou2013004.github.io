@@ -307,7 +307,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 25px 0;
   overflow: hidden;
 }
 
@@ -332,7 +332,7 @@ section {
   content: "";
   position: absolute;
   display: block;
-  width: 50px;
+  width: 125px;
   height: 3px;
   background: #149ddd;
   bottom: 0;
@@ -702,6 +702,7 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Services
