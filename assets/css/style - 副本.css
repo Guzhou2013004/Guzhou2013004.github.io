@@ -1032,7 +1032,7 @@ section {
 
 .photo {
   width: calc(20% - 20px); /* Set the width for three photos in a line (minus margin) */
-  margin:0 10px; /* Add some margin for spacing between photos */
+  margin: 10px; /* Add some margin for spacing between photos */
   text-align: center; /* Center both image and text */
 }
 
