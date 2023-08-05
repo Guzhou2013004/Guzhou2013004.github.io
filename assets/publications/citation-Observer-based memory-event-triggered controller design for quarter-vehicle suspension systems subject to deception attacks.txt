@@ -1,0 +1,12 @@
+@article{sun2023observer,
+  title={Observer-based memory-event-triggered controller design for quarter-vehicle suspension systems subject to deception attacks},
+  author={Sun, Xiang and Gu, Zhou and Mu, Xiufeng},
+  journal={International Journal of Robust and Nonlinear Control},
+  volume={33},
+  number={12},
+  pages={7004-7019},
+}
+
+
+
+Xiang Sun, Zhou Gu* , Xiufeng Mu "Observer-based memory-event-triggered controller design for quarter-vehicle suspension systems subject to deception attacks", International Journal of Robust and Nonlinear Control , vol. 33, no. 12, pp. 7004-7019, Apr. 2023

@@ -1,0 +1,10 @@
+@article{YAN2023110984,
+title = {A delay-kernel-dependent approach to saturated control of linear systems with mixed delays},
+journal = {Automatica},
+volume = {152},
+pages = {110984},
+year = {2023},
+doi = {https://doi.org/10.1016/j.automatica.2023.110984},
+}
+
+Shen Yan, Zhou Gu, Ju H. Park, Xiangpeng Xie, A delay-kernel-dependent approach to saturated control of linear systems with mixed delays, Automatica, Volume 152, 2023： 110984

@@ -1,0 +1,13 @@
+@ARTICLE{10179996,
+  author={Yan, Shen and Gu, Zhou and Ding, Liming and Park, Ju H. and Xie, Xiangpeng},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Weighted memory $H_\infty$ stabilization of time-varying delayed Takagi-Sugeno fuzzy systems}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={},
+  doi={10.1109/TFUZZ.2023.3294339}}
+
+
+
+S. Yan, Z. Gu, L. Ding, J. H. Park and X. Xie, "Weighted memory $H_\infty$ stabilization of time-varying delayed Takagi-Sugeno fuzzy systems," IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2023.3294339.

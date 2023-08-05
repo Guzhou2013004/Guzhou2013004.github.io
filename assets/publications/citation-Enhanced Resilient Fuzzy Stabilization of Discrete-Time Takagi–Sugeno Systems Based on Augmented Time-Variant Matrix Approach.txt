@@ -1,11 +1,12 @@
 @ARTICLE{9801075,
-  author={Xie, Xiangpeng and Wan, Lei and Gu, Zhou and Yue, Dong and Sun, Jiayue},
+  author={X. Xie, L. Wan, Z. Gu, D. Yue, and J. Sun},
   journal={IEEE Transactions on Cybernetics}, 
   title={Enhanced Resilient Fuzzy Stabilization of Discrete-Time Takagi&#x2013;Sugeno Systems Based on Augmented Time-Variant Matrix Approach}, 
   year={2022},
   volume={},
   number={},
-  pages={1-6},
+  pages={},
   doi={10.1109/TCYB.2022.3179048}}
 
-Xiangpeng Xie, L. Wan, Zhou Gu, D. Yue and J. Sun, Enhanced resilient fuzzy stabilization of discrete-time Takagi–Sugeno systems based on augmented time-variant matrix approach, IEEE Transactions on Cybernetics, 2022, doi: 10.1109/TCYB.2022.3179048.
+
+X. Xie, L. Wan, Z. Gu, D. Yue and J. Sun, "Enhanced Resilient Fuzzy Stabilization of Discrete-Time Takagi–Sugeno Systems Based on Augmented Time-Variant Matrix Approach," IEEE Transactions on Cybernetics, 2022, doi: 10.1109/TCYB.2022.3179048.

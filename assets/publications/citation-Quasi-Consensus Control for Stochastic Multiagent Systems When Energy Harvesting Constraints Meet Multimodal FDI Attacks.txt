@@ -1,0 +1,13 @@
+@ARTICLE{10079926,
+  author={Wei, Bin and Tian, Engang and Gu, Zhou and Zhai, Junyong and Liang, Dong},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Quasi-Consensus Control for Stochastic Multiagent Systems: When Energy Harvesting Constraints Meet Multimodal FDI Attacks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={},
+  doi={10.1109/TCYB.2023.3253141}}
+
+
+
+B. Wei, E. Tian, Z. Gu, J. Zhai and D. Liang, "Quasi-Consensus Control for Stochastic Multiagent Systems: When Energy Harvesting Constraints Meet Multimodal FDI Attacks," IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2023.3253141.
