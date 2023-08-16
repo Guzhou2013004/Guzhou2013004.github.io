@@ -1,0 +1,14 @@
+@ARTICLE{9152136,
+  author={Gu, Zhou and Shi, Peng and Yue, Dong and Yan, Shen and Xie, Xiangpeng},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Memory-Based Continuous Event-Triggered Control for Networked T–S Fuzzy Systems Against Cyberattacks}, 
+  year={2021},
+  volume={29},
+  number={10},
+  pages={3118-3129},
+
+
+
+
+
+Z. Gu, P. Shi, D. Yue, S. Yan and X. Xie, "Memory-Based Continuous Event-Triggered Control for Networked T–S Fuzzy Systems Against Cyberattacks," in IEEE Transactions on Fuzzy Systems, vol. 29, no. 10, pp. 3118-3129, Oct. 2021.
