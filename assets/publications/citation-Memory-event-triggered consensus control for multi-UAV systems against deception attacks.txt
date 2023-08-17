@@ -1,12 +1,13 @@
-@article{MU2023,
+@article{MU202395,
 title = {Memory-event-triggered consensus control for multi-UAV systems against deception attacks},
 journal = {ISA Transactions},
+volume = {139},
+pages = {95-105},
 year = {2023},
 issn = {0019-0578},
-doi = {https://doi.org/10.1016/j.isatra.2023.04.028},
+
 author = {Xiufeng Mu and Zhou Gu and Qing Lu},
-}
 
 
 Xiufeng Mu, Zhou Gu, Qing Lu, Memory-event-triggered consensus control for multi-UAV systems against deception attacks,
-ISA Transactions, 2023, DOI: 10.1016/j.isatra.2023.04.028.
+ISA Transactions, vol. 139, pp. 95-105, Aug. 2023.
