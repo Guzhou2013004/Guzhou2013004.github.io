@@ -1,0 +1,14 @@
+@ARTICLE{10337763,
+  author={Gu, Zhou and Huang, Xueyang and Sun, Xiang and Xie, Xiangpeng and Park, Ju H.},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Memory-Event-Triggered Tracking Control for Intelligent Vehicle Transportation Systems: A Leader-Following Approach}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/TITS.2023.3335110}}
+
+
+
+
+Zhou Gu, Xueyang Huang, Xiang Sun, Xiangpeng Xie, and Ju H. Park, "Memory-Event-Triggered Tracking Control for Intelligent Vehicle Transportation Systems: A Leader-Following Approach," IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3335110.
