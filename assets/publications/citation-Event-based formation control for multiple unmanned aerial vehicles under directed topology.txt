@@ -1,17 +1,2 @@
-
-@article{YIN2023111,
-title = {Event-based formation control for multiple unmanned aerial vehicles under directed topology},
-journal = {ISA Transactions},
-volume = {137},
-pages = {111-121},
-year = {2023},
-issn = {0019-0578},
-doi = {https://doi.org/10.1016/j.isatra.2023.01.018},
-url = {https://www.sciencedirect.com/science/article/pii/S0019057823000186},
-author = {Tingting Yin and Zhou Gu and Shen Yan},
-}
-
-
-
-Tingting Yin, Zhou Gu, Shen Yan, Event-based formation control for multiple unmanned aerial vehicles under directed topology,
-ISA Transactions, Vol. 137, 2023：111-121
+2023年
+Tingting Yin, Zhou Gu*, Shen Yan, "Event-based formation control for multiple unmanned aerial vehicles under directed topology", ISA Transactions , vol. 137, pp. 111-121, June, 2023.
