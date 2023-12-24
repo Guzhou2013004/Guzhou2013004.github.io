@@ -1,0 +1,1 @@
+Jinliang Liu, Yanhui Dong, Zhou Gu, Xiangpeng Xie, Engang Tian, "Security consensus control for multi-agent systems under DoS attacks via reinforcement learning method", Journal of the Franklin Institute , vol. 361, no. 1, pp. 164-176, Jan. 2024.

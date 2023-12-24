@@ -1,14 +1,13 @@
 @ARTICLE{10197217,
   author={Sun, Xiang and Gu, Zhou and Mu, Xiufeng and Yan, Shen and Park, Ju H.},
   journal={IEEE Transactions on Vehicular Technology}, 
-  title={Event-triggered consensus control of agent-based full-vehicle suspension systems}, 
+  title={Event-Triggered Consensus Control of Agent-Based Full-Vehicle Suspension Systems}, 
   year={2023},
-  volume={},
-  number={},
-  pages={},
+  volume={72},
+  number={12},
+  pages={15356-15364},
   doi={10.1109/TVT.2023.3298060}}
 
 
 
-
-X. Sun, Z. Gu, X. Mu, S. Yan and J. H. Park, "Event-triggered consensus control of agent-based full-vehicle suspension systems,"  IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3298060.
+X. Sun, Z. Gu, X. Mu, S. Yan and J. H. Park, "Event-Triggered Consensus Control of Agent-Based Full-Vehicle Suspension Systems," IEEE Transactions on Vehicular Technology, vol. 72, no. 12, pp. 15356-15364, Dec. 2023. DOI: 10.1109/TVT.2023.3298060.
