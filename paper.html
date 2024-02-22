@@ -5,9 +5,34 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+  <script>
+      function checkPassword() {
+          var password = prompt("请输入密码：");
+          if (password === "605") {
+              window.open("journal.html", "_blank");
+          } else {
+              alert("密码错误！");
+          }
+      }
+  </script>
+
+
+
+
   <title>顾洲文章列表</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
+
+  <script>
+    function checkPassword() {
+        var password = prompt("请输入密码：");
+        if (password === "605") {
+            window.open("I:\\2023\\个人网页仓库\\journal.html", "_blank");
+        } else {
+            alert("密码错误！");
+        }
+    }
+</script>
 
   <!-- Favicons -->
   <link href="assets/img/lwfb.jpg" rel="icon">
@@ -129,9 +154,9 @@
                  <i> IEEE Transactions on Intelligent Transportation Systems
                 </i>, 2024, DOI:10.1109/TITS.2024.3350536.
                 <br> <!--line break-->
-                [<a href="journal.html" target="_blank">Journal </a>
-                |<a href="assets/publications/citation-Memory-Event-Triggered Tracking Control for Intelligent Vehicle Transportation Systems-A Leader-Following Approach.txt" target="_blank">Citation</a>]
-                |<a href="webpage.html">WebPage</a>]
+                [<a href="#" onclick="checkPassword();">Journal</a>
+                | <a href="assets/publications/citation-Memory-Event-Triggered Tracking Control for Intelligent Vehicle Transportation Systems-A Leader-Following Approach.txt" target="_blank">Citation</a>
+                | <a href="#" onclick="checkPassword();">WebPage</a>]
               </p>
                  </li>            
                 <br>      <!--line break-->   
