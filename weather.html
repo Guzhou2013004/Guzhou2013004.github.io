@@ -1,0 +1,61 @@
+<!DOCTYPE html>  
+<html lang="zh-CN">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>当前IP下的天气</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            text-align: center;  
+            margin-top: 50px;  
+        }  
+        #weather {  
+            margin-top: 20px;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <h1>当前IP下的天气</h1>  
+    <div id="ip"></div>  
+    <div id="weather"></div>  
+  
+    <script>  
+        async function fetchWeather() {  
+            try {  
+                // 获取用户IP地址  
+                const ipResponse = await fetch('https://api64.ipify.org?format=json');  
+                const ipData = await ipResponse.json();  
+                const userIp = ipData.ip;  
+  
+                // 显示IP地址  
+                document.getElementById('ip').innerText = `你的IP地址是: ${userIp}`;  
+  
+                // 获取天气数据（使用OpenWeatherMap API）  
+                const apiKey = 'c00a6caa922e422fe542e63168879e71'; // 替换为你的OpenWeatherMap API密钥  
+                const weatherResponse = await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=0&lon=0&appid=${apiKey}&units=metric&ip=${userIp}`);  
+                const weatherData = await weatherResponse.json();  
+  
+                // 检查API调用是否成功  
+                if (weatherData.cod !== 200) {  
+                    throw new Error('无法获取天气数据');  
+                }  
+  
+                // 显示天气信息  
+                const weatherDiv = document.getElementById('weather');  
+                weatherDiv.innerHTML = `  
+                    <p>城市: ${weatherData.name}</p>  
+                    <p>温度: ${weatherData.main.temp}°C</p>  
+                    <p>天气: ${weatherData.weather[0].description}</p>  
+                `;  
+  
+            } catch (error) {  
+                document.getElementById('weather').innerText = `无法获取天气信息: ${error.message}`;  
+            }  
+        }  
+  
+        // 调用函数以获取天气数据  
+        fetchWeather();  
+    </script>  
+</body>  
+</html>
