@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    text-align: justify;
+}
+
+.container {
+    width: 100%;
+    max-width: 30cm;
+    background-color: rgb(221, 221, 230);
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+}
+
+.header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.header .logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 100px;
+    height: 60px;
+    border-radius: 0;
+}
+
+.header .info {
+    line-height: 1.6;
+    flex: 1;
+}
+
+.info h1 {
+    margin: 0;
+    font-size: 30px;
+    color: #270066;
+}
+
+.info p {
+    margin: 5px 0;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.nav {
+    background-color: #3d5f81;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin: 0 15px;
+    padding: 10px;
+}
+
+.nav a:hover {
+    background-color: #0055a5;
+    border-radius: 5px;
+}
+
+.content {
+    padding: 20px;
+    display: none;
+}
+
+.content.active {
+    display: block;
+}
+
+.content p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+h2 { color: rgba(42, 42, 233, 0.685); }
+
+.publications-nav a {
+    font-size: 16pt;
+}
+
+#teams ul li {
+    font-size: 15pt; /* 设置字体大小为 16pt */
+    line-height: 1.5; /* 设置行间距为 1.2 倍 */
+    margin: 0; /* 清除默认的列表项间距 */
+  }
+
+  #project ul li {
+    font-size: 13pt; /* 设置字体大小为 15pt */
+    line-height: 1.8; /* 设置行间距为 1.2 倍 */
+    margin: 0; /* 清除默认的列表项间距 */
+  }
+
+
+  .align-left {
+    list-style-type: none; /* 去掉默认的列表符号 */
+    padding-left: 16pt; /* 去掉默认的缩进 */
+    margin-left: 0; /* 去掉默认的外边距 */
+  }
+  
+  .align-left li {
+    margin-bottom: 10px; /* 每个列表项之间的间距 */
+    text-align: left; /* 确保文本左对齐 */
+  }
+
+  #cooperation li {
+    font-size: 15pt; /* 设置字体大小为 16pt */
+    margin: 10px 0;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 5px;
+}
