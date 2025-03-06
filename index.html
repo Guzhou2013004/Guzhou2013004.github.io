@@ -6,6 +6,15 @@
     <title>顾洲主页</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
+<?php
+// 读取计数文件
+$counter_file = 'counter.txt';
+$visits = file_exists($counter_file) ? (int)file_get_contents($counter_file) : 0;
+$visits++;
+file_put_contents($counter_file, $visits);
+?>
+
 <body>
     <div class="container">
         <!-- Header Section with Image and Personal Info -->
@@ -14,6 +23,7 @@
             <div class="info">
                 <h1>顾洲</h1>
                 <p>教授，博士生导师</p>
+                <p>总访问次数：<?php echo $visits; ?></p>
                 <p>单位：安徽工程大学.电气工程学院</p>
                 <span class="contact-label">联系方式：</span>
                 <a href="mailto:guzhou@ahpu.edu.cn" class="email">guzhou@ahpu.edu.cn</a> /
