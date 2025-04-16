@@ -146,59 +146,22 @@ file_put_contents($counter_file, $visits);
         </div>
     </div>
 
-
     <script>
-        // 显示特定内容区域的函数
         function showContent(id) {
-            // 获取所有内容区域
             const contents = document.querySelectorAll('.content');
-            
-            // 移除所有内容区域的active类
             contents.forEach(content => {
                 content.classList.remove('active');
             });
-            
-            // 为指定ID的内容区域添加active类
-            const targetContent = document.getElementById(id);
-            if (targetContent) {
-                targetContent.classList.add('active');
-                
-                // 添加平滑滚动到目标内容
-                targetContent.scrollIntoView({ behavior: 'smooth' });
-            }
+            document.getElementById(id).classList.add('active');
         }
-    
-        // 页面加载完成后执行
+
+
         window.addEventListener('load', () => {
-            // 获取URL中的哈希值（锚点）
-            const hash = window.location.hash.substring(1);
-            
-            // 如果存在哈希值，则显示对应内容
+            const hash = window.location.hash.substring(1); 
             if (hash) {
                 showContent(hash);
             }
-        });
-    
-        // 添加平滑滚动效果到所有锚点链接
-        document.addEventListener('DOMContentLoaded', () => {
-            // 获取所有锚点链接
-            const links = document.querySelectorAll('a[href^="#"]');
-            
-            // 为每个链接添加点击事件
-            links.forEach(link => {
-                link.addEventListener('click', function(e) {
-                    e.preventDefault(); // 阻止默认行为
-                    
-                    // 获取链接的目标ID
-                    const targetId = this.getAttribute('href').substring(1);
-                    
-                    // 如果存在目标ID，则显示对应内容
-                    if (targetId) {
-                        showContent(targetId);
-                    }
-                });
-            });
-        });
+        })
     </script>
 
 

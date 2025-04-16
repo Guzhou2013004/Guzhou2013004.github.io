@@ -1612,30 +1612,23 @@
         </div>
 
 
-  <script>
-    // 默认显示 "Online" 内容
-    window.onload = function() {
-      showContent('all');
-    };
-
-    // 切换显示内容的函数
-    function showContent(section) {
-      // 隐藏所有内容
-      document.querySelectorAll('.publications-section').forEach(function(div) {
-        div.style.display = 'none';
-      });
-
-      // 如果是 "all"，则显示所有内容
-      if (section === 'all') {
-        document.querySelectorAll('.publications-section').forEach(function(div) {
-          div.style.display = 'block';
-        });
-      } else {
-        // 显示指定内容
-        document.getElementById(section).style.display = 'block';
-      }
-    }
-  </script>
+        <script>
+          function showContent(id) {
+              const contents = document.querySelectorAll('.content');
+              contents.forEach(content => {
+                  content.classList.remove('active');
+              });
+              document.getElementById(id).classList.add('active');
+          }
+  
+  
+          window.addEventListener('load', () => {
+              const hash = window.location.hash.substring(1); 
+              if (hash) {
+                  showContent(hash);
+              }
+          })
+      </script>
 
 
 </body>
