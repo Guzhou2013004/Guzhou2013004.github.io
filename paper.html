@@ -15,9 +15,11 @@
       <div class="info">
         <h1>顾洲</h1>
         <p>教授，博士生导师</p>
-        <p>单位：安徽工程大学，电气工程学院</p>
-        <p>联系方式：guzhou@ahpu.edu.cn</p>
-      </div>
+        <p>单位：安徽工程大学.电气工程学院</p>
+        <span class="contact-label">联系方式：</span>
+        <a href="mailto:guzhou@ahpu.edu.cn" class="email">guzhou@ahpu.edu.cn</a> /
+        <a href="mailto:gzh1808@163.com" class="email">gzh1808@163.com</a>  总访问次数：<?php echo $visits; ?>
+    </div>
        
     </div>
 
@@ -25,10 +27,10 @@
     <div class="nav">
       <a href="index.html#home">基本情况</a>
       <a href="index.html#project">科研项目</a>
-      <a href="paper.html" onclick="showContent('publications')">研究成果</a>
+      <a href="paper.html">研究成果</a>
       <a href="index.html#honors">荣誉奖励</a>
       <a href="index.html#teams">团队建设</a>
-      <a href="index.html#news">交流合作</a>
+      <a href="index.html#cooperation">交流合作</a>
     </div>
 
     <!-- Publications Navigation -->
@@ -1613,22 +1615,33 @@
 
 
         <script>
-          function showContent(id) {
-              const contents = document.querySelectorAll('.content');
-              contents.forEach(content => {
-                  content.classList.remove('active');
+          function showContent(year) {
+            const sections = document.querySelectorAll('.publications-section');
+        
+            if (year === 'all') {
+              // Show all publication sections
+              sections.forEach(section => {
+                section.style.display = 'block';
               });
-              document.getElementById(id).classList.add('active');
-          }
-  
-  
-          window.addEventListener('load', () => {
-              const hash = window.location.hash.substring(1); 
-              if (hash) {
-                  showContent(hash);
+            } else {
+              // Hide all sections first
+              sections.forEach(section => {
+                section.style.display = 'none';
+              });
+        
+              // Show only the selected year section
+              const selected = document.getElementById(year);
+              if (selected) {
+                selected.style.display = 'block';
               }
-          })
-      </script>
+            }
+          }
+        
+          // Optional: show all on initial load
+          window.onload = function () {
+            showContent('all');
+          };
+        </script>
 
 
 </body>

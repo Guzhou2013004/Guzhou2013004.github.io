@@ -31,7 +31,7 @@ file_put_contents($counter_file, $visits);
         </div>
 
         <!-- Navigation Bar -->
-        <div class="nav fixed-top">
+        <div class="nav">
             <a href="#" onclick="showContent('home')">基本情况</a>
             <a href="#" onclick="showContent('project')">科研项目</a>
             <a href="paper.html" onclick="showContent('publications')">研究成果</a>
@@ -162,6 +162,12 @@ file_put_contents($counter_file, $visits);
                 showContent(hash);
             }
         })
+
+        window.addEventListener("load", function() {
+            setTimeout(() => {
+              window.scrollTo({ top: 0, behavior: 'instant' });
+            }, 0.1);
+          });
     </script>
 
 
