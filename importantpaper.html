@@ -1,201 +1,367 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>科研成果</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<body>
-  <div class="container">
-    <!-- Header Section with Image and Personal Info -->
-    <div class="header">
-      <img src="img/guzhou.jpg" alt="顾洲教授">
-      <div class="info">
-        <h1>顾洲</h1>
-        <p>教授，博士生导师</p>
-        <p>单位：安徽工程大学.电气工程学院</p>
-        <span class="contact-label">联系方式：</span>
-        <a href="mailto:guzhou@ahpu.edu.cn" class="email">guzhou@ahpu.edu.cn</a> /
-        <a href="mailto:gzh1808@163.com" class="email">gzh1808@163.com</a>  总访问次数：<?php echo $visits; ?>
-    </div>
-       
-    </div>
-
-    <!-- Navigation Bar -->
-    <div class="nav">
-      <a href="index.html#home">基本情况</a>
-      <a href="index.html#project">科研项目</a>
-      <a href="paper.html">研究成果</a>
-      <a href="index.html#honors">荣誉奖励</a>
-      <a href="index.html#teams">团队建设</a>
-      <a href="index.html#cooperation">交流合作</a>
-    </div>
-
-
-    <div id="Important papers" class="publications-section">
-      <h3 style="color: rgb(130, 130, 211);">Important papers</h3> 
-      <ol>
-        <li>
-          <p class="custom-paragraph">
-            <b>Zhou Gu*</b>, Tingting Yin, Qing Lu, and Ju H. Park*,
-          <b>“Resilient event-triggered formation control and secure estimation of multi-UAV systems”</b>, 
-          <i style="color: blue;">IEEE Transactions on Industrial Informatics,</i> 
-          Vol. 21, no. 6, pp. 4915 - 4923, Jun. 2025
-            <br/>  <!--line break-->
-            [<a href="https://doi.org/10.1109/TII.2025.3547012" target="_blank">HTML</a>
-            |<a href="publications/Resilient_Event-Triggered_Formation_Control_and_Secure_Estimation_of_Multi-UAV_Systems.pdf" target="_blank">PDF</a>]
-            ]👍
-          </p>    
-        </li>
-        <li>
-          <p class="custom-paragraph">
-            <b>Zhou Gu*</b>, Yujian Fan, Fan Yang, and Engang Tian, 
-          <b>“Event-triggered T-S fuzzy load frequency control with variable probabilistic release for renewable energy integrated power systems”</b>, 
-            <i style="color: blue;">IEEE Transactions on Automation Science and Engineering,</i> 
-            vol. 22, pp. 8492-8501, Mar. 2025.
-            <br/>  <!--line break-->
-            [<a href="https://doi.org/10.1109/TASE.2024.3486093" target="_blank">HTML</a>
-            |<a href="publications/Event-Triggered_T-S_Fuzzy_Load_Frequency_Control_With_Variable_Probabilistic_Release_for_Renewable_Energy_Integrated_Power_Systems.pdf" target="_blank">PDF</a>] 👍            
-          </p>    
-        </li>
-          <li>
-          <p class="custom-paragraph">
-            <b>Zhou Gu*</b>, Yujian Fan, Tingting Yin, and Shen Yan,
-            <b>“A novel event-triggered load frequency control for power systems with electric vehicle integration”</b>,
-            <i style="color: blue;">IEEE Transactions on Systems, Man, and Cybernetics: Systems,</i>
-            vol. 55, no. 1, pp. 599 - 608, Jan. 2025.
-             
-             <br/>   [<a href="https://doi.org/10.1109/TSMC.2024.3485164" target="_blank">HTML</a>
-            |<a href="publications/A_Novel_Event-Triggered_Load_Frequency_Control_for_Power_Systems_With_Electric_Vehicle_Integration.pdf" target="_blank">PDF</a>] 👍
-          </p>
-        </li>
-        <li>
-          <p class="custom-paragraph">
-            <b>Zhou Gu</b>, Xueyang Huang, Xiang Sun, Xiangpeng Xie, and Ju H. Park,
-          <b>“Memory-event-triggered tracking control for intelligent vehicle transportation systems: a leader-following approach”</b>,
-            <i style="color: blue;">IEEE Transactions on Intelligent Transportation Systems</i>, vol. 25, no. 5, pp. 743-752, May, 2024. <span style="color: red;">&hearts;</span>  
-              <!--line break-->
-             <br/>   [<a href="https://ieeexplore.ieee.org/document/10337763" target="_blank">HTML</a>
-            |<a href="publications/Memory-Event-Triggered_Tracking_Control_for_Intelligent_Vehicle_Transportation_Systems_A_Leader-Following_Approach.pdf" target="_blank">PDF</a>] 👍
-          </p>
-        </li>
-                  <li>
-            <p class="custom-paragraph">
-              <b>Zhou Gu</b>, Dong Yue, Ju H. Park, and Xiangpeng Xie, <b>“Memory-event-triggered fault detection of networked IT2 T-S fuzzy systems”</b>, 
-              <i style="color: blue;">IEEE Transactions on Cybernetics</i>, vol. 53, no. 2, Feb. 2023. <span style="color: red;">&hearts;</span>
-               
-               <br/>   [<a href="https://ieeexplore.ieee.org/abstract/document/9733960" target="_blank">HTML</a> | <a href="publications/Memory-Event-Triggered Fault Detection of Networked IT2 T–S Fuzzy Systems.pdf" target="_blank">PDF</a> | <a href="publications/citation-Memory-Event-Triggered Fault Detection of Networked IT2 T–S Fuzzy Systems.txt" target="_blank">Citation</a>]
-            </p>
-          </li>
-
-                 <li>
-                    <p class="custom-paragraph">
-                      <b>Zhou Gu</b>, Choon Ki Ahn, Dong Yue, Xiangpeng Xie, <b>"Event-triggered H∞ filtering for T-S fuzzy-model-based nonlinear networked systems with multisensors against DoS attacks"</b>,
-                      <i style="color:blue;">IEEE Transactions on Cybernetics</i>, vol. 52, no. 6, pp. 5311-5321, June 2022. <span style="color: red;">&hearts;</span>
-                       
-                       <br/>   [<a href="https://ieeexplore.ieee.org/document/9250020" target="_blank">HTML</a> | <a href="publications/Event-Triggered H∞ Filtering for T–S Fuzzy-Model-Based Nonlinear Networked Systems With Multisensors Against DoS Attacks.pdf" target="_blank">PDF</a> | <a href="publications/citation-Event-Triggered H∞ Filtering for T–S Fuzzy-Model-Based Nonlinear Networked Systems With Multisensors Against DoS Attacks.txt" target="_blank">Citation</a>]
-                    </p>
-            </li>
-                  <li>
-                    <p class="custom-paragraph">
-                      <b>Zhou Gu</b>, Shen Yan, C. K. Ahn, Dong Yue, Xiangpeng Xie, <b>"Event-Triggered Dissipative Tracking Control of Networked Control Systems With Distributed Communication Delay"</b>,
-                      <i style="color:blue;">IEEE Systems Journal</i>, vol. 16, no. 2, pp. 3320-3330, June 2022. (2022 IEEE Systems Journal Best Paper Award) <span style="color: red;">&hearts;</span>
-                       
-                       <br/>   [<a href="https://ieeexplore.ieee.org/document/9444909" target="_blank">HTML</a> | <a href="publications/Event-Triggered Dissipative Tracking Control of Networked Control Systems With Distributed Communication Delay.pdf" target="_blank">PDF</a> | <a href="publications/citation-Event-Triggered Dissipative Tracking Control of Networked Control Systems With Distributed Communication Delay.txt" target="_blank">Citation</a>]
-                    </p>
-                  </li>
-                    <li>
-                    <p class="custom-paragraph">
-                      <b>Zhou Gu</b>, Xiang Sun, Hak-Keung Lam, Dong Yue, Xiangpeng Xie, <b>"Event-based secure control of T-S fuzzy-based 5-DoF active semivehicle suspension systems subject to DoS attacks"</b>,
-                      <i style="color:blue;">IEEE Transactions on Fuzzy Systems</i>, vol. 30, no. 6, pp. 2032-2043, June 2022. <span style="color: red;">&hearts;</span>
-                       
-                       <br/>   [<a href="https://ieeexplore.ieee.org/document/9404851" target="_blank">HTML</a> | <a href="publications/Event-Based Secure Control of T–S Fuzzy-Based 5-DOF Active Semivehicle Suspension Systems Subject to DoS Attacks.pdf" target="_blank">PDF</a> | <a href="publications/citation-Event-Based Secure Control of T–S Fuzzy-Based 5-DOF Active Semivehicle Suspension Systems Subject to DoS Attacks.txt" target="_blank">Citation</a>]
-                    </p>
-                  </li>  
-               
-                 <li>
-                    <p class="custom-paragraph">
-                        <b> Zhou Gu</b>, Peng Shi, Dong Yue, Shen Yan, Xiangpeng Xie, <b> "Memory-based continuous event-triggered control for networked T-S fuzzy systems against cyber-attacks"</b>,
-                        <i style="color:blue;">IEEE Transactions on Fuzzy Systems</i>, Oct. 2021, 29(10), 3118 – 3129.  <span style="color: red;">&hearts;</span>
-                          <!--line break-->
-                         <br/>   [<a href="https://ieeexplore.ieee.org/document/9152136" target="_blank">HTML </a>|<a
-                            href="publications/Memory-Based Continuous Event-Triggered Control for Networked T–S Fuzzy Systems Against Cyberattacks.pdf"
-                            target="_blank">PDF </a>|<a
-                            href="publications/citation-Memory-Based Continuous Event-Triggered Control for Networked T–S Fuzzy Systems Against Cyberattacks.txt"
-                            target="_blank">Citation</a>]
-                    </p>
-                </li>   
-          <li>
-            <p class="custom-paragraph">
-              Shen Yan, <b>Zhou Gu</b>*, Ju H. Park, and Xiangpeng Xie, <b>"Synchronization of delayed fuzzy neural networks with probabilistic communication delay and its application to image encryption"</b>, 
-              <i style="color: blue;">IEEE Transactions on Fuzzy Systems</i>, vol. 31, no. 3, Mar. 2023. <span style="color: red;">&hearts;</span>
-               
-               <br/>   [<a href="https://ieeexplore.ieee.org/document/9839515" target="_blank">HTML</a> | <a href="publications/Synchronization of Delayed Fuzzy Neural Networks with Probabilistic Communication Delay and Its Application to Image Encryption.pdf" target="_blank">PDF</a> | <a href="publications/citation-Synchronization of Delayed Fuzzy Neural Networks with Probabilistic Communication Delay and Its Application to Image Encryption.txt" target="_blank">Citation</a>]
-            </p>
-          </li>                
-
-           <li>
-            <p class="custom-paragraph">
-              Shen Yan, <b>Zhou Gu*</b>, Ju H. Park*, and Xiangpeng Xie, <b>“A delay-kernel-dependent approach to saturated control of linear systems with mixed delays”</b>, 
-              <i style="color: blue;">Automatica</i>, vol. 152, pp. 1109842023, 2023. <span style="color: red;">&hearts;</span>
-               
-               <br/>   [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0005109823001371" target="_blank">HTML</a> | <a href="publications/A delay-kernel-dependent approach to saturated control of linear systems with mixed delays.pdf" target="_blank">PDF</a> | <a href="publications/citation-A delay-kernel-dependent approach to saturated control of linear systems with mixed delays.txt" target="_blank">Citation</a>]
-            </p>
-          </li>
-                 <li>
-                    <p class="custom-paragraph">
-                        Shen Yan, <b>Zhou Gu</b>*, Ju H. Park and Xiangpeng Xie, <b>"Adaptive memory-event-triggered static output control of T-S fuzzy wind turbine systems"</b>,
-                        <i style="color:blue;">IEEE Transactions on Fuzzy Systems</i>, vol. 30, no. 9, pp. 3894-3904, Sept. 2022. <span style="color: red;">&hearts;</span>
-                         
-                         <br/>   [<a href="https://ieeexplore.ieee.org/document/9645358" target="_blank">HTML</a> | <a href="publications/Adaptive Memory-Event-Triggered Static Output Control of T–S Fuzzy Wind Turbine Systems.pdf" target="_blank">PDF</a> | <a href="publications/citation-Adaptive Memory-Event-Triggered Static Output Control of T–S Fuzzy Wind Turbine Systems.txt" target="_blank">Citation</a>]
-                    </p>
-                </li>   
-
-
-
-      </ol>  
-    </div>
-
-
-        <!-- Footer -->
-        <div class="footer">
-          © Designed by ZhouGu 2025
-        </div>
-
-
-        <script>
-          function showContent(year) {
-            const sections = document.querySelectorAll('.publications-section');
+    <title>学术文献表格</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+        }
         
-            if (year === 'all') {
-              // Show all publication sections
-              sections.forEach(section => {
-                section.style.display = 'block';
-              });
-            } else {
-              // Hide all sections first
-              sections.forEach(section => {
-                section.style.display = 'none';
-              });
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
+            padding: 30px;
+            min-height: 100vh;
+        }
         
-              // Show only the selected year section
-              const selected = document.getElementById(year);
-              if (selected) {
-                selected.style.display = 'block';
-              }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(90deg, #1a3a6c, #2c5a9d);
+            color: white;
+            padding: 25px 30px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            letter-spacing: 0.5px;
+        }
+        
+        .subtitle {
+            font-size: 16px;
+            opacity: 0.85;
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.5;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            padding: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        th {
+            background: linear-gradient(to bottom, #f2f6fc, #e4ebf8);
+            color: #2c3e50;
+            font-weight: 600;
+            padding: 15px 12px;
+            text-align: center;
+            border: 1px solid #d0dceb;
+            position: sticky;
+            top: 0;
+        }
+        
+        td {
+            padding: 14px 12px;
+            border: 1px solid #e1e8f0;
+            color: #2d3748;
+            line-height: 1.5;
+            vertical-align: top;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f9fbfd;
+        }
+        
+        tr:hover {
+            background-color: #edf4ff;
+            transition: background-color 0.2s;
+        }
+        
+        .author-cell {
+            font-weight: 600;
+            color: #1a3a6c;
+        }
+        
+        .journal-cell {
+            color: #2c5a9d;
+        }
+        
+        .citation-cell {
+            font-weight: 600;
+            text-align: center;
+            color: #27ae60;
+        }
+        
+        .section-divider {
+            height: 40px;
+            background: linear-gradient(90deg, rgba(26,58,108,0.1), rgba(44,90,157,0.15), rgba(26,58,108,0.1));
+            position: relative;
+            margin: 20px 0;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            font-weight: 600;
+            color: #1a3a6c;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
+            background: #f8fafd;
+            border-top: 1px solid #e1e8f0;
+            flex-wrap: wrap;
+        }
+        
+        .stat-box {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            min-width: 200px;
+            margin: 10px;
+            flex: 1;
+        }
+        
+        .stat-value {
+            font-size: 32px;
+            font-weight: 700;
+            color: #2c5a9d;
+            margin: 10px 0;
+        }
+        
+        .stat-label {
+            font-size: 16px;
+            color: #4a5568;
+        }
+        
+        .highlight {
+            background-color: #fff8e6;
+            border-left: 4px solid #ffc107;
+        }
+        
+        .year-cell {
+            text-align: center;
+            font-weight: 500;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #718096;
+            font-size: 14px;
+            background: #f8fafd;
+            border-top: 1px solid #e1e8f0;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 15px;
             }
-          }
+            
+            .container {
+                border-radius: 8px;
+            }
+            
+            header {
+                padding: 20px 15px;
+            }
+            
+            h1 {
+                font-size: 22px;
+            }
+            
+            .subtitle {
+                font-size: 14px;
+            }
+            
+            .table-container {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>重点关注论文</h1>
+        </header>
         
-          // Optional: show all on initial load
-          window.onload = function () {
-            showContent('all');
-          };
-        </script>
+        <div class="table-container">
+            <div class="section-divider">安工程第一单位 </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 40px;">#</th>
+                        <th>作者</th>
+                        <th>题目</th>
+                        <th>期刊</th>
+                        <th>期卷号</th>
+                        <th>年份</th>
+                        <th>Google Citation – 250606</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="year-cell">1</td>
+                        <td class="author-cell">Zhou Gu*, Tingting Yin, Qing Lu, and Ju H. Park*</td>
+                        <td>Resilient event-triggered formation control and secure estimation of multi-UAV systems</td>
+                        <td class="journal-cell">IEEE Transactions on Industrial Informatics</td>
+                        <td>Vol. 21, no. 6, pp. 4915 - 4923</td>
+                        <td class="year-cell">2025</td>
+                        <td class="citation-cell">0</td>
+                    </tr>
+                    <tr>
+                        <td class="year-cell">2</td>
+                        <td class="author-cell">Zhou Gu*, Yujian Fan, Fan Yang, and Engang Tian</td>
+                        <td>Event-triggered T-S fuzzy load frequency control with variable probabilistic release for renewable energy integrated power systems</td>
+                        <td class="journal-cell">IEEE Transactions on Automation Science and Engineering</td>
+                        <td>vol. 22, pp. 8492-8501</td>
+                        <td class="year-cell">2025</td>
+                        <td class="citation-cell">2</td>
+                    </tr>
+                    <tr class="highlight">
+                        <td class="year-cell">3</td>
+                        <td class="author-cell">Zhou Gu*, Yujian Fan, Tingting Yin, and Shen Yan</td>
+                        <td>A novel event-triggered load frequency control for power systems with electric vehicle integration</td>
+                        <td class="journal-cell">IEEE Transactions on Systems, Man, and Cybernetics: Systems</td>
+                        <td>vol. 55, no. 1, pp. 599 - 608</td>
+                        <td class="year-cell">2025</td>
+                        <td class="citation-cell">6</td>
+                    </tr>
+                    <tr>
+                        <td class="year-cell">4</td>
+                        <td class="author-cell">Zhou Gu, Xueyang Huang, Xiang Sun, Xiangpeng Xie, and Ju H. Park</td>
+                        <td>Memory-event-triggered tracking control for intelligent vehicle transportation systems: a leader-following approach</td>
+                        <td class="journal-cell">IEEE Transactions on Intelligent Transportation Systems</td>
+                        <td>vol. 25, no. 5, pp. 743-752</td>
+                        <td class="year-cell">2024</td>
+                        <td class="citation-cell">23</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <div class="section-divider">南林第一单位</div>
+            <table>
+                <tbody>
+                    <tr>
+                        <td class="year-cell">1</td>
+                        <td class="author-cell">Zhou Gu, Dong Yue, Ju H. Park, and Xiangpeng Xie</td>
+                        <td>Memory-event-triggered fault detection of networked IT2 T-S fuzzy systems</td>
+                        <td class="journal-cell">IEEE Transactions on Cybernetics</td>
+                        <td>vol. 53, no. 2</td>
+                        <td class="year-cell">2023</td>
+                        <td class="citation-cell">76</td>
+                    </tr>
+                    <tr class="highlight">
+                        <td class="year-cell">2</td>
+                        <td class="author-cell">Zhou Gu, Choon Ki Ahn, Dong Yue, Xiangpeng Xie</td>
+                        <td>Event-triggered Hso filtering for T-S fuzzy-model-based nonlinear networked systems with multisensors against DoS attacks</td>
+                        <td class="journal-cell">IEEE Transactions on Cybernetics</td>
+                        <td>vol. 52, no. 6, pp. 5311-5321</td>
+                        <td class="year-cell">2022</td>
+                        <td class="citation-cell">146</td>
+                    </tr>
+                    <tr>
+                        <td class="year-cell">3</td>
+                        <td class="author-cell">Zhou Gu, Shen Yan, C. K. Ahn, Dong Yue, Xiangpeng Xie</td>
+                        <td>Event-Triggered Dissipative Tracking Control of Networked Control Systems With Distributed Communication Delay</td>
+                        <td class="journal-cell">IEEE Systems Journal</td>
+                        <td>vol. 16, no. 2, pp. 3320-3330</td>
+                        <td class="year-cell">2022</td>
+                        <td class="citation-cell">47</td>
+                    </tr>
+                    <tr>
+                        <td class="year-cell">4</td>
+                        <td class="author-cell">Zhou Gu, Xiang Sun, Hak-Keung Lam, Dong Yue, Xiangpeng Xie</td>
+                        <td>Event-based secure control of T-S fuzzy-based 5-DoF active semivehicle suspension systems subject to DoS attacks</td>
+                        <td class="journal-cell">IEEE Transactions on Fuzzy Systems</td>
+                        <td>vol. 30, no. 6, pp. 2032-2043</td>
+                        <td class="year-cell">2022</td>
+                        <td class="citation-cell">82</td>
+                    </tr>
+                    <tr>
+                        <td class="year-cell">5</td>
+                        <td class="author-cell">Zhou Gu, Peng Shi, Dong Yue, Shen Yan, Xiangpeng Xie</td>
+                        <td>Memory-based continuous event-triggered control for networked T-S fuzzy systems against cyber-</td>
+                        <td class="journal-cell">IEEE Transactions on Fuzzy Systems</td>
+                        <td>29(10), 3118 – 3129</td>
+                        <td class="year-cell">2021</td>
+                        <td class="citation-cell">127</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <div class="section-divider">合作研究论文</div>
+            <table>
+                <tbody>
+                    <tr>
+                        <td class="year-cell">1</td>
+                        <td class="author-cell">Shen Yan, Zhou Gu*, Ju H. Park, and Xiangpeng Xie</td>
+                        <td>Synchronization of delayed fuzzy neural networks with probabilistic communication delay and its application to image encryption</td>
+                        <td class="journal-cell">IEEE Transactions on Fuzzy Systems</td>
+                        <td>vol. 31, no. 3</td>
+                        <td class="year-cell">2023</td>
+                        <td class="citation-cell">65</td>
+                    </tr>
+                    <tr>
+                        <td class="year-cell">2</td>
+                        <td class="author-cell">Shen Yan, Zhou Gu*, Ju H. Park*, and Xiangpeng Xie</td>
+                        <td>A delay-kernel-dependent approach to saturated control of linear systems with mixed delays</td>
+                        <td class="journal-cell">Automatica</td>
+                        <td>vol. 152, pp. 1109842023</td>
+                        <td class="year-cell">2023</td>
+                        <td class="citation-cell">46</td>
+                    </tr>
+                    <tr>
+                        <td class="year-cell">3</td>
+                        <td class="author-cell">Shen Yan, Zhou Gu*, Ju H. Park and Xiangpeng Xie</td>
+                        <td>Adaptive memory-event-triggered static output control of T-S fuzzy wind turbine systems</td>
+                        <td class="journal-cell">IEEE Transactions on Fuzzy Systems</td>
+                        <td>vol. 30, no. 9, pp. 3894-3904</td>
+                        <td class="year-cell">2022</td>
+                        <td class="citation-cell">90</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-value">12</div>
+                <div class="stat-label">总论文数</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-label">2025: 4</div>
+                <div class="stat-label">2024: 1</div>
+                <div class="stat-label">2023: 3</div>
+                <div class="stat-label">2022: 3</div>
+                <div class="stat-label">2021: 1</div>
+            </div>
 
-
+            <div class="stat-box">
+                <div class="stat-value">预祝成功 <a style="font-size:36px">&#128540</a></div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>数据更新时间: 2025年6月6日 | 文献计量数据来自Google Scholar</p>
+            <p>注：带*号为通讯作者 </p>
+        </div>
+    </div>
 </body>
 </html>
-
-
