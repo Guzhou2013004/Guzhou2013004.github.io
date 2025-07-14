@@ -1,0 +1,45 @@
+
+安工程第一单位：
+1.
+\bibitem{gu2025resilient}
+Z.~Gu, T.~Yin, Q.~Lu, and J.~H. Park, ``Resilient event-triggered formation control and secure estimation of multi-UAV systems,'' {\em IEEE Trans. Ind. Inform.}, vol.~21, no.~6, pp.~4915--4923, Jun. 2025.
+2.
+\bibitem{gu2025triggered}
+Z.~Gu, Y.~Fan, F.~Yang, and E.~Tian, ``Event-triggered T-S fuzzy load frequency control with variable probabilistic release for renewable energy integrated power systems,'' {\em IEEE Trans. Autom. Sci. Eng.}, vol.~22, pp.~8492--8501, Mar. 2025.
+3.
+\bibitem{gu2025novel}
+Z.~Gu, Y.~Fan, T.~Yin, and S.~Yan, ``A novel event-triggered load frequency control for power systems with electric vehicle integration,'' {\em IEEE Trans. Syst., Man, Cybern., Syst.}, vol.~55, no.~1, pp.~599--608, Jan. 2025.
+4.
+\bibitem{gu2024memory}
+Z.~Gu, X.~Huang, X.~Sun, X.~Xie, and J.~H. Park, ``Memory-event-triggered tracking control for intelligent vehicle transportation systems: a leader-following approach,'' {\em IEEE Trans. Intell. Transp. Syst.}, vol.~25, no.~5, pp.~743--752, May 2024.
+5.
+\bibitem{gu2024memory}
+Z.~Gu, F. Yang,  X.~Sun, `Event-triggered interval type-2 fuzzy consensus control of full-vehicle suspension systems using a leader-following approach,'' {\em IEEE Trans. Intell. Transp. Syst.}, early access, Jun. 30, 2025, doi: 10.1109/TITS.2025.3581732.
+南林第一单位：
+1.
+\bibitem{gu2023fault}
+Z.~Gu, D.~Yue, J.~H. Park, and X.~Xie, ``Memory-event-triggered fault detection of networked IT2 T-S fuzzy systems,'' {\em IEEE Trans. Cybern.}, vol.~53, no.~2, Feb. 2023.
+2.
+\bibitem{gu2022filtering}
+Z.~Gu, C.~K. Ahn, D.~Yue, and X.~Xie, ``Event-triggered {$H_\infty$} filtering for T-S fuzzy-model-based nonlinear networked systems with multisensors against DoS attacks,'' {\em IEEE Trans. Cybern.}, vol.~52, no.~6, pp.~5311--5321, Jun. 2022.
+3.
+\bibitem{gu2022dissipative}
+Z.~Gu, S.~Yan, C.~K. Ahn, D.~Yue, and X.~Xie, ``Event-triggered dissipative tracking control of networked control systems with distributed communication delay,'' {\em IEEE Syst. J.}, vol.~16, no.~2, pp.~3320--3330, Jun. 2022.
+4.
+\bibitem{gu2022secure}
+Z.~Gu, X.~Sun, H.~K. Lam, D.~Yue, and X.~Xie, ``Event-based secure control of T-S fuzzy-based 5-DoF active semivehicle suspension systems subject to DoS attacks,'' {\em IEEE Trans. Fuzzy Syst.}, vol.~30, no.~6, pp.~2032--2043, Jun. 2022.
+5.
+\bibitem{gu2021continuous}
+Z.~Gu, P.~Shi, D.~Yue, S.~Yan, and X.~Xie, ``Memory-based continuous event-triggered control for networked T-S fuzzy systems against cyber-attacks,'' {\em IEEE Trans. Fuzzy Syst.}, vol.~29, no.~10, pp.~3118--3129, Oct. 2021.
+
+合作论文：
+1.
+\bibitem{yan2023dependent}
+S.~Yan, Z.~Gu, J.~H. Park, and X.~Xie, ``A delay-kernel-dependent approach to saturated control of linear systems with mixed delays,'' {\em Automatica}, vol.~152, pp.~110984, Jun. 2023.
+2.
+\bibitem{yan2023adaptive}
+S.~Yan, Z.~Gu, J.~H. Park, and X.~Xie, ``Adaptive memory-event-triggered static output control of T-S fuzzy wind turbine systems,'' {\em IEEE Trans. Fuzzy Syst.}, vol.~30, no.~9, pp.~3894--3904, 2023.
+3.
+\bibitem{yan2023synchronization}
+S.~Yan, Z.~Gu, J.~H. Park, and X.~Xie, ``Synchronization of delayed fuzzy neural networks with probabilistic communication delay and its application to image encryption,'' {\em IEEE Trans. Fuzzy Syst.}, vol.~31, no.~3, Mar. 2023.
+ 
