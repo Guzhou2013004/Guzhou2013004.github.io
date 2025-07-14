@@ -12,6 +12,9 @@ Z.~Gu, Y.~Fan, T.~Yin, and S.~Yan, ``A novel event-triggered load frequency cont
 4.
 \bibitem{gu2024memory}
 Z.~Gu, X.~Huang, X.~Sun, X.~Xie, and J.~H. Park, ``Memory-event-triggered tracking control for intelligent vehicle transportation systems: a leader-following approach,'' {\em IEEE Trans. Intell. Transp. Syst.}, vol.~25, no.~5, pp.~743--752, May 2024.
+5.
+\bibitem{gu2021continuous}
+Z.~Gu, P.~Shi, D.~Yue, S.~Yan, and X.~Xie, ``Memory-based continuous event-triggered control for networked T-S fuzzy systems against cyber-attacks,'' {\em IEEE Trans. Fuzzy Syst.}, vol.~29, no.~10, pp.~3118--3129, Oct. 2021.
 
 南林第一单位：
 1.
